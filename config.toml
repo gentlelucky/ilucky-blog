@@ -139,6 +139,11 @@ name = "编程"
 weight = 30
 identifier = "develop"
 url = "category/develop/"
+[[languages.zh.menu.main]]
+name = "碎语"
+weight = 40
+identifier = "gossip"
+url = "category/gossip/"
 
 [[languages.zh.menu.social]]
 name = "Telegram"
