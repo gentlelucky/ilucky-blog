@@ -9,3 +9,4 @@ authors:
 ---
 
 ## 前言
+![weekly_review_20240819](https://image.pseudoyu.com/images/weekly_review_20240819.png)
