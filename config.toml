@@ -1,15 +1,16 @@
 # ------------------------------------- #
 # ---- General Settings --------------- #
 # ------------------------------------- #
-baseURL = "https://example.com"
-title = "Den"
+baseURL = "https://gentlelucky.com/"
+title = "GentleLucky"
 theme = "hugo-theme-den"
-#enableRobotsTXT = true       # generate robots.txt
-enableEmoji = true           # use emoji support
-hasCJKLanguage = true        # detect CJK languages for word count etc.
-preserveTaxonomyNames = true # do not make tag names lowercase
+enableRobotsTXT = true                # generate robots.txt
+enableEmoji = true                    # use emoji support
+hasCJKLanguage = true                 # detect CJK languages for word count etc.
+preserveTaxonomyNames = true          # do not make tag names lowercase
 # uglyURLs = true            # more info: https://gohugo.io/content-management/urls/#ugly-urls
-rssLimit = 20                # limit number of entries in RSS feeds
+rssLimit = 100          # limit number of entries in RSS feeds
+page_view_conter = true
 
 # Copyright, appears in the footer
 # copyright = ""             # default: author.name
@@ -22,149 +23,141 @@ paginatePath = "page"
 
 # Syntax Hightlight
 PygmentsCodeFences = true
-PygmentsUseClasses = true    # required for shhighlight shortcode
+PygmentsUseClasses = true # required for shhighlight shortcode
 
 # service plugins
-disqusShortname = ""         # disqus_shortname
-googleAnalytics = ""         # UA-XXXXXXXX-X
+disqusShortname = "" # disqus_shortname
+googleAnalytics = "" # UA-XXXXXXXX-X
 
-# language support # en / zh-tw / other... translations present in i18n/
-defaultContentLanguage = "en"           # Default language to use
+# language support # en / zh / other... translations present in i18n/
+defaultContentLanguage = "zh"         # Default language to use
 defaultContentLanguageInSubdir = true
 
 # Links format
 [permalinks]
-  posts = "/:year/:month/:day/:slug/"
-  categories = "/category/:slug/"      # required
-  tags = "/tag/:slug/"                 # required
-  pages = "/:slug/"
+posts = "/:year/:month/:day/:filename/"
+categories = "/category/:slug/"         # required
+tags = "/tag/:slug/"                    # required
+pages = "/:slug/"
 
-[author]                     # required
-  name = "Jane Doe"
+[author] # required
+name = "WenXiang Feng"
 
-[sitemap]                    # required
-  changefreq = "weekly"
-  priority = 0.5
-  filename = "sitemap.xml"
+[sitemap] # required
+changefreq = "weekly"
+priority = 0.5
+filename = "sitemap.xml"
 
 # ------------------------------------- #
 # ---- Other Params ------------------- #
 # ------------------------------------- #
 
 [params]
-  since = "2017"             # Site creation time
-  rssFullContent = true      # set true to use full content instead of summary
+since = "2020"        # Site creation time
+rssFullContent = true # set true to use full content instead of summary
 
-  # site info (optional)
-  keywords = ["Hugo", "theme","den"]
-  description = "A simple theme for Hugo"
-  logoTitle = "Den" # shown on top-left, default: title
-  siteLogoImage = "images/globe.svg"     # shown besides logoTitle
-  # headerTitle = "Den"                   # default: title
-  headerImage = "images/background.jpg"
-  showAuthorCard = true # Whether to show author information below the article
+# site info (optional)
+keywords = ["hugo", "Java", "programming"]
+description = "Java | Programming | Game | Boyi"
+logoTitle = "GentleLucky"                                        # shown on top-left, default: title
+siteLogoImage = "images/icon.png"                             # shown besides logoTitle
+# headerTitle = "GentleLucky"                   # default: title
+headerImage = "images/background.png"
+showAuthorCard = true                 # Whether to show author information below the article
 
-  showMenuLanguages = true
+showMenuLanguages = true
 
-  autoLoadComments = false # auto load comment when scrolling down
+autoLoadComments = false # auto load comment when scrolling down
 
-  # paginate style, default use numbered pagination links
-  # if true, use original "Previous" and "Next" links.
-  # paginateOriginalStyle = true
+# paginate style, default use numbered pagination links
+# if true, use original "Previous" and "Next" links.
+paginateOriginalStyle = true
 
-  # The date format to use; for a list of valid formats, see https://gohugo.io/functions/format/
-  dateFormatToUse = "2006-01-02"
+# The date format to use; for a list of valid formats, see https://gohugo.io/functions/format/
+dateFormatToUse = "2006-01-02"
 
-  google_verification = ""  # Google_Verification
+google_verification = "" # Google_Verification
 
-  # Link custom CSS and JS assets
-  #   (relative to /static/css and /static/js respectively)
-  customCSS = []             # if ['custom.css'], load '/static/css/custom.css' file
-  customJS = []              # if ['custom.js'], load '/static/js/custom.js' file
+# Link custom CSS and JS assets
+#   (relative to /static/css and /static/js respectively)
+customCSS = [
+  'custom.css',
+] # if ['custom.css'], load '/static/css/custom.css' file
+customJS = [] # if ['custom.js'], load '/static/js/custom.js' file
+
+[markup]
+[markup.goldmark]
+[markup.goldmark.renderer]
+unsafe = true
 
 # ------------------------------------- #
 # ---- Related Articles --------------- #
 # ------------------------------------- #
 [related]
-  # Only include matches with rank >= threshold. This is a normalized rank between 0 and 100.
-  threshold = 50
+# Only include matches with rank >= threshold. This is a normalized rank between 0 and 100.
+threshold = 50
 
-  # To get stable "See also" sections we, by default, exclude newer related pages.
-  includeNewer = true
+# To get stable "See also" sections we, by default, exclude newer related pages.
+includeNewer = true
 
-  # Will lower case keywords in both queries and in the indexes.
-  toLower = false
-
-[[related.indices]]
-  name = "categories"
-  weight = 200
+# Will lower case keywords in both queries and in the indexes.
+toLower = true
 
 [[related.indices]]
-  name = "keywords"
-  weight = 150
+name = "categories"
+weight = 200
 
 [[related.indices]]
-  name = "tags"
-  weight = 100
+name = "keywords"
+weight = 150
 
+[[related.indices]]
+name = "tags"
+weight = 100
 
-[languages.en]
-  languageCode = "en"
-  languageName = "English"
-  contentDir = "content/en"
-  weight = 1
+[languages.zh]
+languageCode = "zh"
+languageName = "简"
+contentDir = "content/zh"
+weight = 1
 
-  [[languages.en.menu.main]]
-    name = "Notes"
-    weight = 10
-    identifier = "notes"
-    url = "category/notes/"
-  [[languages.en.menu.main]]
-    name = "Demos"
-    weight = 20
-    identifier = "demos"
-    url = "category/demos/"
+[languages.zh.params]
+description = "Java | Programming | Game | Boyi"
 
-  [[languages.en.menu.social]]
-    name = "GitHub"
-    weight = 10
-    identifier = "github"
-    url = "https://github.com/shaform/hugo-theme-den/"
+[[languages.zh.menu.main]]
+name = "思考"
+weight = 10
+identifier = "ideas"
+url = "category/ideas/"
+[[languages.zh.menu.main]]
+name = "工具"
+weight = 20
+identifier = "tools"
+url = "category/tools/"
+[[languages.zh.menu.main]]
+name = "编程"
+weight = 30
+identifier = "develop"
+url = "category/develop/"
 
-  [[languages.en.menu.links]]
-    name = "About Me"
-    weight = 10
-    identifier = "about-me"
-    url = "https://github.com/shaform/hugo-theme-den/"
+[[languages.zh.menu.social]]
+name = "Telegram"
+weight = 10
+identifier = "telegram"
+url = "https://t.me/lucky_share_01"
+[[languages.zh.menu.social]]
+name = "Twitter"
+weight = 20
+identifier = "twitter"
+url = "https://x.com/gentlelucky9596"
+[[languages.zh.menu.social]]
+name = "BiliBili"
+weight = 40
+identifier = "bilibili"
+url = "https://space.bilibili.com/398514231/"
 
-[languages.zh-tw]
-  languageCode = "zh-tw"
-  languageName = "繁體中文"
-  contentDir = "content/zh-tw"
-  weight = 2
-
-  [languages.zh-tw.params]
-    description = "一個簡單的佈景。"
-
-  [[languages.zh-tw.menu.main]]
-    name = "筆記"
-    weight = 10
-    identifier = "notes"
-    url = "category/notes/"
-  [[languages.zh-tw.menu.main]]
-    name = "展示"
-    weight = 20
-    identifier = "demos"
-    url = "category/demos/"
-
-  [[languages.zh-tw.menu.social]]
-    name = "GitHub"
-    weight = 10
-    identifier = "github"
-    url = "https://github.com/shaform/hugo-theme-den/"
-
-  [[languages.zh-tw.menu.links]]
-    name = "關於我"
-    weight = 10
-    identifier = "about-me"
-    url = "https://github.com/shaform/hugo-theme-den/"
+[[languages.zh.menu.links]]
+name = "iLucky's GitHub"
+weight = 10
+identifier = "github"
+url = "https://github.com/gentlelucky"
