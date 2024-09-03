@@ -73,7 +73,7 @@ authors:
 - [**悟空传**](https://book.douban.com/subject/1485224/)，受游戏科学发布的3A单机游戏《黑神话·悟空》的热度，想看看关于悟空的小说。很不错的一本小说。「我要这天，再遮不住我眼，我要这地，再埋不了我心，要这众生，都明白我意，要那诸佛，都烟消云散！」。
 #### 音乐
 -  [**《黑神话：悟空》章节片尾曲《屁》**](https://www.bilibili.com/video/av113008978166964 "https://www.bilibili.com/video/av113008978166964")
-- [**《黑神话：悟空》小曲儿「云宫迅音」**]([https://www.bilibili.com/video/av1056561944](https://www.bilibili.com/video/av1056561944 "https://www.bilibili.com/video/av1056561944"))，和86版《西游记》里的「云宫讯音」对比了一下。86版比较仙气一点，而《黑神话：悟空》中比较气势磅礴一些。
+- [**《黑神话：悟空》小曲儿「云宫迅音」**](https://www.bilibili.com/video/av1056561944)，和86版《西游记》里的「云宫讯音」对比了一下。86版比较仙气一点，而《黑神话：悟空》中比较气势磅礴一些。
 #### 视频
 - [全程干货！如何才能杜绝浑浑噩噩的生活？【围炉夜话】](https://www.bilibili.com/video/av666079524)
 - [全员卧底！二郎神究竟为悟空付出了多少?《黑神话：悟空》精讲 第一回](https://www.bilibili.com/video/av1606544454)
