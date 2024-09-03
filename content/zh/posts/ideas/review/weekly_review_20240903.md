@@ -74,7 +74,7 @@ authors:
 #### 音乐
 -  [**《黑神话：悟空》章节片尾曲《屁》**](https://www.bilibili.com/video/av113008978166964 "https://www.bilibili.com/video/av113008978166964")
 - [**《黑神话：悟空》小曲儿「云宫迅音」**]([https://www.bilibili.com/video/av1056561944](https://www.bilibili.com/video/av1056561944 "https://www.bilibili.com/video/av1056561944"))，和86版《西游记》里的「云宫讯音」对比了一下。86版比较仙气一点，而《黑神话：悟空》中比较气势磅礴一些。
-#### [视频]()
+#### 视频
 - [全程干货！如何才能杜绝浑浑噩噩的生活？【围炉夜话】]([https://www.bilibili.com/video/av666079524](https://www.bilibili.com/video/av666079524 "https://www.bilibili.com/video/av666079524"))
 - [全员卧底！二郎神究竟为悟空付出了多少?《黑神话：悟空》精讲 第一回]([https://www.bilibili.com/video/av1606544454](https://www.bilibili.com/video/av1606544454 "https://www.bilibili.com/video/av1606544454"))
 - [终于找到了英特尔CPU缩缸的原因！如何自救？]([https://www.bilibili.com/video/av1756510875](https://www.bilibili.com/video/av1756510875 "https://www.bilibili.com/video/av1756510875"))
