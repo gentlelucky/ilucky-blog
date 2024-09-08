@@ -3,9 +3,10 @@ title: "周报 #02 - Notion删除所有俄罗斯用户数据的思考"
 date: 2024-09-08T10:30:00+08:00
 draft: false
 tags: ["review", "life", "PARA", "Notion", "GTD"]
-categories: ["Ideas"]
+categories: 
+  - "Ideas"
 authors:
-- "gentlelucky"
+  - "gentlelucky"
 ---
 
 ## 前言
@@ -16,7 +17,7 @@ authors:
 
 之前对笔记的存储管理使用的是[「notion」](https://www.notion.so/)。看本周看到了一条notion发的新闻：
 
-![image-20240908113929782](http://cs.ilucky.space:8089/2024/09/08/83030d0b61521.png)
+![image-20240908113929782](https://image.gentlelucky.com/83030d0b61521-20240908162228857.png)
 
 这说明：**技术有国界！**，于是决定笔记必须本地化存储。我采用了 **Obsidian + NAS** 方案，进行笔记的编写与同步。
 
@@ -51,7 +52,7 @@ PARA 分别是 **Projects（项目）**、**Areas（领域）**、**Resources（
 > - 近期不会用到，但也不想永久删除掉
 > - 不想永久删除的项目，资源。归档进行管理。
 
-![image-20240908115004840](http://cs.ilucky.space:8089/2024/09/08/d39b639020f51.png)
+![image-20240908115004840](https://image.gentlelucky.com/d39b639020f51-20240908162235057.png)
 
 ## 任务管理
 
