@@ -2,7 +2,12 @@
 title: "周报 #02 - Notion删除所有俄罗斯用户数据的思考"
 date: 2024-09-08T10:30:00+08:00
 draft: false
-tags: ["review", "life", "PARA", "Notion", "GTD"]
+tags: 
+  - "review"
+  - "life"
+  - "PARA"
+  - "Notion"
+  - "GTD"
 categories: 
   - "Ideas"
 authors:
