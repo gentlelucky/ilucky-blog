@@ -17,15 +17,15 @@ authors:
 
 本篇是对 `2024-09-09` 到 `2024-09-15` 这周生活的记录和思考。
 
-这一周重新规划了每日时间追踪，并使用 [Toggl Track](https://track.toggl.com/timer) 进行记录，实践下来还是比较适合自己的；基于《[打造第二大脑](https://book.douban.com/subject/36636224/)》书的内容，对记笔记有了新的认识：输出决定输入；
+这一周重新规划了每日时间追踪，并使用「[Toggl Track](https://track.toggl.com/timer)」进行记录，实践下来还是比较适合自己的；基于「[《打造第二大脑》](https://book.douban.com/subject/36636224/)」书的内容，对记笔记有了新的认识：输出决定输入；
 
 ## 时间追踪
 
-「**时间追踪**」这个概念是从 DIYgod [基于 Obsidian 的生活记录系统 - DIYgod](https://diygod.cc/obsidian) 中了解到的，DIYgod 提到：
+「**时间追踪**」这个概念是从 `DIYgod`「[基于 Obsidian 的生活记录系统 - DIYgod](https://diygod.cc/obsidian)」中了解到的，`DIYgod` 提到：
 
 > Toggl Track 是一个时间记录应用，记录我每天在各项事务中花费的时间，比如看番时间、刷 B 站时间、工作时间等，这些数据同样可以反映我今天的生产力是否符合预期
 
-刚开始我用自己年度 **2024-OKR** 目标作为 **Toggl Track** 的项目，项目名称分别是：
+刚开始我用自己年度 **`2024-OKR`** 目标作为 **`Toggl Track`** 的项目，项目名称分别是：
 
 > O1: 身体健康，健康饮食、多运动
 >
@@ -45,13 +45,14 @@ authors:
 
 实践了一段时间后，无法通过统计的时间数据来反馈我的工作、休息是否符合预期。
 
-受 Chris Daniels 对 Toggl Track 的使用（ [How I Use Time-Tracking To Maximize Productivity - Toggl Trc](https://www.youtube.com/watch?v=2YUvKN2qIXM) ）的启发，本周对 Toggl Track 的时间追踪使用做了调整。
+受 `Chris Daniels` 对` Toggl Track` 的使用「 [How I Use Time-Tracking To Maximize Productivity - Toggl Trc](https://www.youtube.com/watch?v=2YUvKN2qIXM) 」
+的启发，本周对 `Toggl Track` 的时间追踪使用做了调整。
 
 ### Clients 使用
 
 ![image-20240915150917706](https://image.gentlelucky.com/image-20240915150917706.png)
 
-在 Toggl Track 中新建 Client，Client 分别是：
+在 `Toggl Track` 中新建 Client，Client 分别是：
 
 > 工作：主业工作
 >
@@ -65,7 +66,7 @@ Client 分类是方便自己从这四个大维度去统计数据，能够看出�
 
 ### Projects 使用
 
-![image-20240915151339212](https://image.gentlelucky.com/image-20240915151339212.png)
+![image-20240915220335551](https://image.gentlelucky.com/image-20240915220335551.png)
 
 Projects 菜单中是有截止日志，或有目标要持续负责的项目，例如：
 
@@ -89,32 +90,32 @@ Report 页面就是报表统计页面，可通过 Clients 和 Projects 的维度
 
 从 Projects 维度统计：
 
-![image-20240915152130022](https://image.gentlelucky.com/image-20240915152130022.png)
+![image-20240915220058235](https://image.gentlelucky.com/image-20240915220058235.png)
 
 从 Clients 维度统计：
 
-![image-20240915152303418](https://image.gentlelucky.com/image-20240915152303418.png)
+![image-20240915220144984](https://image.gentlelucky.com/image-20240915220144984.png)
 
 有了报表数据，可以直观的反映今天、本周、本月、本年的时间花费是否符合自己的预期。
 
-《[奇特的一生 ](https://book.douban.com/subject/26829485/)》书中写到：**我们一生的时间，大部分用于错误及种种恶行；很大一部分虚抛浪掷，无所事事。我们整个一生，几乎都没有用来干应当干的事**。
+[《奇特的一生 》](https://book.douban.com/subject/26829485/)书中写到：**`我们一生的时间，大部分用于错误及种种恶行；很大一部分虚抛浪掷，无所事事。我们整个一生，几乎都没有用来干应当干的事`**。
 
 ## 笔记思考
 
-本周看了 MoneyXYZ [小心效率陷阱：為什麼你不需要"第二大腦"或者"個人知識庫"？](https://www.youtube.com/watch?v=5kNCcpM61eo) 的油管视频，很赞同他的说法：
+本周看了 MoneyXYZ「 [小心效率陷阱：為什麼你不需要"第二大腦"或者"個人知識庫"？](https://www.youtube.com/watch?v=5kNCcpM61eo)」的油管视频，很赞同他的说法：
 
-> - 书籍《打造第二大脑》真正的价值是 ”**Actionability**“ (可操作性)
+> - 书籍《打造第二大脑》真正的价值是 ”**`Actionability`**“ (可操作性)
 > - 笔记是为了具体的输出或者行动服务的
-> - **输出决定输入**，而不是输入决定输出
+> - **`输出决定输入`**，而不是输入决定输出
 > - 原则比工具更重要
 
 所以，在收集信息阶段，我会有目的性的去思考，这个信息属于我那个项目，如果不属于我现阶段的任何一个项目，要不要新建一个项目来存储收集的信息。如果发现没必要，那就废弃掉收集到的信息。
 
-先**设定输出目标**，然后**有目的地输入**，最终**实现输出**。
+先**`设定输出目标`**，然后**`有目的地输入`**，最终**`实现输出`**。
 
 ## 信息输入系统
 
-随着互联网的发展，以及算法的成熟。我已渐渐生活在**信息茧房**中。每天醒来各个平台就会推送信息给我。需要思考如何去有效的获取信息流。经过调研，发现信息可以分为三类：
+随着互联网的发展，以及算法的成熟。我已渐渐生活在**`信息茧房`**中。每天醒来各个平台就会推送信息给我。需要思考如何去有效的获取信息流。经过调研，发现信息可以分为三类：
 
 1. 闪念想法
 2. 被动信息
@@ -122,14 +123,14 @@ Report 页面就是报表统计页面，可通过 Clients 和 Projects 的维度
 
 ### 闪念想法
 
-在生活、工作中的突发奇想，用最方便的工具记录下来，可以用备忘录、电脑、手机，主要是**快**、**方便**记录自己的想法就行。空闲了再去整理回顾一下自己的**闪念想法**，这些想法可能未来某一天能用到。
+在生活、工作中的突发奇想，用最方便的工具记录下来，可以用备忘录、电脑、手机，主要是**`快`**、**`方便`**记录自己的想法就行。空闲了再去整理回顾一下自己的**`闪念想法`**，这些想法可能未来某一天能用到。
 
 ### 被动信息
 
-使用 [Follow](https://follow.is/) 去订阅自己感兴趣的信息（PS：终于抢到内测邀请码了，感谢@虎了吧唧）。梳理了一下自己日常信息输入流，分类如下：
+使用「[Follow](https://follow.is/)」去订阅自己感兴趣的信息（PS：终于抢到内测邀请码了，感谢@虎了吧唧）。梳理了一下自己日常信息输入流，分类如下：
 
 > - 博客：主要订阅大佬们的日常博客，可用从中学到很多有意思的东西
-> - 网站：技术网站发版的通知，能够快速了解最新动态，像 [spring](https://sping.io)
+> - 网站：技术网站发版的通知，能够快速了解最新动态，像「[spring](https://sping.io)」
 > - 视频：关注哔哩哔哩、油管视频
 > - 播客：可上班通勤路上听
 > - 推特：分享日常
@@ -147,6 +148,10 @@ Report 页面就是报表统计页面，可通过 Clients 和 Projects 的维度
 #### 书籍
 
 - [《小王子》](https://book.douban.com/subject/1084336/)，如果你驯服了我，我们就互相不可缺少了。对我来说，你就是世界上唯一的了；我对你来说，也是世界上唯一的了。
+
+#### 音乐
+
+- [远航](https://music.163.com/#/song?id=482919165) by 歌之初乐队
 
 #### 视频
 
