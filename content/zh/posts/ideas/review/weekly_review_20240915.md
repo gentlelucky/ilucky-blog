@@ -143,7 +143,7 @@ Report 页面就是报表统计页面，可通过 Clients 和 Projects 的维度
 
 ### 输入
 
-虽然大部分有意思的输入会在 「[Lucky’s Footprints](https://t.me/lucky_share_01)」 Telegram 频道里自动同步，不过还是挑选一部分在这里列举一下。并且把 Telegram Channel 消息作为内容源搭建了一个微博客 —— 「[daily.manktech.com](https://daily.manktech.com/)」，可以更方便浏览了。
+虽然大部分有意思的输入会在 「[Lucky’s Footprints](https://t.me/wxluckya)」 Telegram 频道里自动同步，不过还是挑选一部分在这里列举一下。并且把 Telegram Channel 消息作为内容源搭建了一个微博客 —— 「[daily.gentlelucky.com](https://daily.gentlelucky.com/)」，可以更方便浏览了。
 
 #### 书籍
 

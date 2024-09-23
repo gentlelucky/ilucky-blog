@@ -67,7 +67,7 @@ authors:
 
 ### 输入
 
-虽然大部分有意思的输入会在 「[Lucky’s Footprints](https://t.me/lucky_share_01)」 Telegram 频道里自动同步，不过还是挑选一部分在这里列举一下。并且把 Telegram Channel 消息作为内容源搭建了一个微博客 —— 「[daily.manktech.com](https://daily.manktech.com/)」，可以更方便浏览了。
+虽然大部分有意思的输入会在 「[Lucky’s Footprints](https://t.me/wxluckya)」 Telegram 频道里自动同步，不过还是挑选一部分在这里列举一下。并且把 Telegram Channel 消息作为内容源搭建了一个微博客 —— 「[daily.gentlelucky.com](https://daily.gentlelucky.com/)」，可以更方便浏览了。
 
 #### 书籍
 - [**悟空传**](https://book.douban.com/subject/1485224/)，受游戏科学发布的3A单机游戏《黑神话·悟空》的热度，想看看关于悟空的小说。很不错的一本小说。「我要这天，再遮不住我眼，我要这地，再埋不了我心，要这众生，都明白我意，要那诸佛，都烟消云散！」。

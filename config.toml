@@ -149,7 +149,7 @@ url = "category/gossip/"
 name = "Telegram"
 weight = 10
 identifier = "telegram"
-url = "https://t.me/lucky_share_01"
+url = "https://t.me/wxluckya"
 [[languages.zh.menu.social]]
 name = "Twitter"
 weight = 20
