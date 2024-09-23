@@ -4,7 +4,7 @@ url = "https://www.gentlelucky.com"
 display = "gentlelucky"
 
 [image]
-url = "images/author.webp"
+url = "images/author.png"
 
 [zh]
 description = "后端 & Java研发工程师。 在 [GitHub](https://github.com/gentlelucky) 关注我。在我的 [Telegram 频道](https://t.me/lucky_share_01)了解更多。"
