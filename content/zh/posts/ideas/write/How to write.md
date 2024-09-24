@@ -23,21 +23,15 @@ My target audience. And, as the saying goes, *know your audience.* A group of st
 
 [Naval Ravikant](https://x.com/naval/status/1189712122286002177)Co-founder of AngelList
 
-![Portrait of wizard Gandalf the Gray](https://garden.bradwoods.io/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fgandalf.e1b58ae6.webp&w=3840&q=75)
-
 Over time, people like me will become my audience. Because they like what I like. I won't waste time guessing what content they might be interested in. Or lose motivation writing about things I don't care about because it might please others. I know my audience because they are like me.
 
 > *“People ask me from time to time, do you make a movie with an audience in mind? And my answer is, yes, I do. But the audience I have in mind isn't some faceless blobs that I'm trying to second guess, right? It's me. I'm the audience. I was betting that there are other people like me out there.”*
 
 [Quentin Tarantino](https://youtu.be/dujnjw_s8bY?si=imUCxGyn_O-R6wdd&t=1010)Filmmaker
 
-![Portrait of Jedi Master Yoda](https://garden.bradwoods.io/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fyoda.303da7de.webp&w=3840&q=75)
-
 > *“I just write what I want. I write what amuses me. It's totally for myself. I never in my wildest dreams expected this popularity.”*
 
 [J.K. Rowling](https://www.goodreads.com/quotes/435887-i-just-write-what-i-wanted-to-write-i-write)Author of Harry Potter
-
-![Portrait of Rick from Rick & Morty](https://garden.bradwoods.io/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Frick.b76d216e.webp&w=3840&q=75)
 
 ## **Signal vs. noise**
 
@@ -55,13 +49,9 @@ A post can communicate a new idea, or an existing idea in a new way. Surprisingl
 
 [Morgan Housel](https://youtu.be/vOvLFT4v4LQ?si=ulc7v03TCn4PBgVN&t=6125)New York Times bestselling author
 
-![Portrait of Jedi Master Yoda](https://garden.bradwoods.io/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fyoda.303da7de.webp&w=3840&q=75)
-
 > *“When creating art, books, stories—anything—don't let the pursuit of originality freeze you. There's something much more important than originality anyway: resonance. And resonance is something you can repeatedly accomplish. Resonance is expressing an idea so truthfully using today's sensibilities that you fixate people on it and make it feel worth remembering. Resonance is relatable storytelling that reveals an uncolored truth about life, and for a brief moment it takes over the reader's mind. Retelling an age-old story with more truth and better narrative is more powerful than originality: after all, you'll rarely change someone's life by telling them something new, but you can reliably affect them by saying something so well that it compels them to lean in. Consider how films like Gladiator and The Shawshank Redemption tell clichéd stories as old as time. But they've resonated above most other films for decades. Why? Great storytelling takes precedence over originality.”*
 
 Julian ShapiroWriter
-
-![Portrait of HAL 9000](https://garden.bradwoods.io/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fhal9000.538823e0.webp&w=3840&q=75)
 
 People prefer to consume information filtered through someone's voice. [Scott Galaway](https://www.youtube.com/watch?v=VgGWaESP06g) highlights that most news providers source their content from the same places. They're all saying the same thing. The reason someone chooses one provider over another comes down to how that information is communicated. Their perspective. Their voice.
 
@@ -75,15 +65,11 @@ The more time spent exploring, the better. It's hard to make something if you do
 
 [Albert Einstein](https://www.forbes.com/sites/nelldebevoise/2021/01/26/the-third-critical-step-in-problem-solving-that-einstein-missed)Theoretical physicist
 
-![Portrait of Doctor Manhattan](https://garden.bradwoods.io/_next/image?url=%2F_next%2Fstatic%2Fmedia%2FdoctorManhattan.d3159e04.webp&w=3840&q=75)
-
 I don't just collect material on what to say, but also on how to say it. If I come across a post that has an effective writing technique, I'll collect it to use as future reference. If a whole post is effective, I'll reverse-engineer it to figure out why.
 
 > *“Good artists copy, great artists steal.”*
 
 [Pablo Picasso](https://quoteinvestigator.com/2013/03/06/artists-steal/)Painter, sculptor, printmaker, ceramicist, theatre designer
-
-![Portrait of Rick from Rick & Morty](https://garden.bradwoods.io/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Frick.b76d216e.webp&w=3840&q=75)
 
 ### **Creativity faucet**
 
@@ -98,8 +84,6 @@ To be seen as an authority, you need to consistently create content on that area
 > *“Find a subject you care about and which you in your heart feel others should care about. It is this genuine caring, and not your games with language, which will be the most compelling and seductive element in your style.”*
 
 [Kurt Vonnegut](https://kmh-lanl.hansonhub.com/pc-24-66-vonnegut.pdf)Author
-
-![Portrait of Spock the Vulcan](https://garden.bradwoods.io/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fspock.3971ec86.webp&w=3840&q=75)
 
 ### **Outline**
 
@@ -129,8 +113,6 @@ The easier to skim, the better you manage the reader's expectations. This matter
 
 ### **First draft**
 
-![Sonic running](https://garden.bradwoods.io/_next/image?url=%2Fimages%2FsonicRunning.webp&w=256&q=75)
-
 The purpose of a first draft is to create something. Every draft after that refines it. I review the outline to load context into my brain, then start writing. Fast. The first draft is a speedrun. The goal is to move everything from my head to the page. I use the *[creativity faucet](https://www.julian.com/blog/creativity-faucet)* again, writing down every idea I have in order to flush out the bad and get to the good. I don't care about quality. I write long, rambling sentences that barely make sense, filled with spelling and grammar errors, tangents, and repetition. If I can't think of how to end one, I just write *#ADD SOMETHING HERE#* and move on.
 
 This is where I generate ideas and why I only need a vague idea of what I'm writing about for the outline. Because writing is thinking. More on this later.
@@ -144,8 +126,6 @@ Great writing is understandable and connects with the reader. **There is no \*on
 > *“The human mind and absorb and process an incredible amount of information if it comes in the right format. The right interface.”*
 
 [Neal Stephenson](https://en.wikipedia.org/wiki/Snow_Crash)Author of Snow Crash
-
-![Portrait of Rick from Rick & Morty](https://garden.bradwoods.io/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Frick.b76d216e.webp&w=3840&q=75)
 
 ### **Understandable**
 
@@ -161,8 +141,6 @@ I don't understand the explanation on the left. The idea is valuable but, becaus
 
 [William Zinsser](https://www.goodreads.com/quotes/8729114-but-the-secret-of-good-writing-is-to-strip-every)Author
 
-![Portrait of wizard Gandalf the Gray](https://garden.bradwoods.io/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fgandalf.e1b58ae6.webp&w=3840&q=75)
-
 Simplifying writing removes noise. It helps gets the content into the reader's head as frictionless as possible.
 
 **One sentence per line**. Displaying each sentence on its own line makes simplifying easier. This is not how it will look when published, only when revising. It:
@@ -174,8 +152,6 @@ Simplifying writing removes noise. It helps gets the content into the reader's h
 > *“This sentence has five words. Here are five more words. Five-word sentences are fine. But several together become monotonous. Listen to what is happening. The writing is getting boring. The sound of it drones. It's like a stuck record. The ear demands some variety. Now listen. I vary the sentence length, and I create music. Music. The writing sings. It has a pleasant rhythm, a lilt, a harmony. I use short sentences. And I use sentences of medium length. And sometimes, when I am certain the reader is rested, I will engage him with a sentence of considerable length, a sentence that burns with energy and builds with all the impetus of a crescendo, the roll of the drums, the crash of the cymbals-sounds that say listen to this, it is important. So write with a combination of short, meium and long sentences. Create a sound that pleases the ear. Don't just write words. Write music.”*
 
 [Gary Provost](https://www.goodreads.com/quotes/373814-this-sentence-has-five-words-here-are-five-more-words)Author
-
-![Portrait of Doctor Manhattan](https://garden.bradwoods.io/_next/image?url=%2F_next%2Fstatic%2Fmedia%2FdoctorManhattan.d3159e04.webp&w=3840&q=75)
 
 **Purpose.** For every statement, question what the purpose and effect it will have on the reader. Remove sentences irrelevant to the paragraph's purpose. Remove paragraphs irrelevant to their section's purpose. Remove sections irrelevant to the post's purpose.
 
@@ -189,8 +165,6 @@ Also remove defensive words. In conversation, phrases like *"I think"* can softe
 
 [Thomas Jefferson](https://www.goodreads.com/quotes/14310-the-most-valuable-of-all-talents-is-that-of-never)United States Founding Father
 
-![Portrait of Spock the Vulcan](https://garden.bradwoods.io/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fspock.3971ec86.webp&w=3840&q=75)
-
 **Use other mediums.** The goal of writing is to change how the reader thinks, but this doesn't have to be done with words alone. A picture is worth a thousand words and sometimes an image, video, sound, or widget can convey an idea more effectively than text. A web page has multimedia capabilities. Use them.
 
 #### **Examples**
@@ -201,18 +175,12 @@ When explaining a complex idea, consider using examples. They make abstract conc
 
 Everything has pros and cons. Acknowledging and addressing counterarguments shows you've done your homework. It demonstrates that you've considered different perspectives and potential repercussions, yet still believe your idea is the strongest. This adds credibility and weight to your position.
 
-![img](https://garden.bradwoods.io/_next/static/media/underConstruction.46bd3ec2.svg)
-
 **UNDER CONSTRUCTION:** This section is a work in progress.
 Add: analogy, metaphor, quote.
 
 ### **Connect**
 
 Writing needs to be understandable, but being understandable alone isn't enough—it must also be memorable to change the reader's thinking. **Writing that evokes emotions connects with the reader on a deeper level.** Consider a scene from *How I Met Your Mother* presented in two ways: both identical, but the second version includes somber music and grayscale colors. These reinforce the scene's message by evoking nostalgia, making it more memorable.
-
-<video class="styles_video__56IYf" controls="" playsinline="" preload="auto" data-immersive-translate-walked="39681d55-491f-4dc6-b18c-0d55cb305c25" style="box-sizing: border-box; margin: 0px; padding: 0px; min-width: 0px; display: block; max-width: 100%; cursor: pointer; aspect-ratio: 9 / 16; width: 240px;"></video>
-
-<video class="styles_video__56IYf" controls="" playsinline="" preload="auto" data-immersive-translate-walked="39681d55-491f-4dc6-b18c-0d55cb305c25" style="box-sizing: border-box; margin: 0px; padding: 0px; min-width: 0px; display: block; max-width: 100%; cursor: pointer; aspect-ratio: 9 / 16; width: 240px;"></video>
 
 Story is another way to connect at a deeper level. [Simon Sinek](https://www.youtube.com/watch?v=I3WUiD8HYn8) believes **nobody wants to be explained to. But people will listen and remember stories.**
 
@@ -227,8 +195,6 @@ The more you grow your style, the more unique your voice, the more you escape co
 > *“Don't try to be original, just try to be good.”*
 
 [Paul Rand](https://www.logodesignlove.com/paul-rand-video)Designer of for IBM, NeXT
-
-![Portrait of Rick from Rick & Morty](https://garden.bradwoods.io/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Frick.b76d216e.webp&w=3840&q=75)
 
 On a weboage, style extends beyond the content to how it's presented. Make your space on the internet uniquely yours—a reflection of your personality. One of a kind. Craftsmanship shows through small details, signaling time and care have gone into creatingthis. That this is something of value.
 
@@ -260,8 +226,6 @@ The purpose of revising is to close the gap between what you intend and what is 
 
 [Cate Hall](https://usefulfictions.substack.com/p/how-to-be-more-agentic)Blogger
 
-![Portrait of Doctor Manhattan](https://garden.bradwoods.io/_next/image?url=%2F_next%2Fstatic%2Fmedia%2FdoctorManhattan.d3159e04.webp&w=3840&q=75)
-
 As a meaningful thanks, acknowledge them in the post.
 
 **When to stop revising.** Some author's push out content quickly, while others, like Paul graham, spend two weeks on an essay and [re-write drafts 50 times](https://paulgraham.com/words.html?viewfullsite=1). Should you aim for quantity or quality? Quantity allows for faster output, more experimentation, and quicker feedback. You will be more motivated to start a new post if the previous took only a couple of days compared to months. However, rushing risks producing half-baked work, offering little value. **We pollute the internet posting content with little thought behind it.** You won't learn as much compared to slowing down and really putting the time into what you're doing. Jame Joyce, author of Ulysses, the greatest novel of the 20th century, wrote at a rate of 100 words a day for seven years. T. S. Eliot averaged half a page a month for 25 years.
@@ -269,10 +233,6 @@ As a meaningful thanks, acknowledge them in the post.
 > *“It's not that I'm so smart, it's just that I stay with problems longer.”*
 
 [Albert Einstein](https://www.goodreads.com/quotes/8690969-it-s-not-that-i-m-so-smart-it-s-just-that-i)Theoretical physicist
-
-![Portrait of HAL 9000](https://garden.bradwoods.io/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fhal9000.538823e0.webp&w=3840&q=75)
-
-![img](https://garden.bradwoods.io/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fdanger.6283bfc5.webp&w=828&q=75)
 
 ## **Danger**
 
@@ -284,8 +244,6 @@ Arguments and counter-arguments against writing.
 
 [William Zinsser](https://www.goodreads.com/author/quotes/7881675.William_Zinsser)Author
 
-![Portrait of Jedi Master Yoda](https://garden.bradwoods.io/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fyoda.303da7de.webp&w=3840&q=75)
-
 **Anything I write will just be repeating what others have said**. Maybe the idea isn't new, but your take on it is. Richard Feynman was an exceptional physics teacher. He gained admiration not for new ideas, but for how he communicated well-known ones. Earning praise from [Bill Gates](https://www.gatesnotes.com/The-Best-Teacher-I-Never-Had). If you want originality, you need to think. Writing is a tool for better thinking. Writing about existing ideas can generate new ones. Creativity doesn't happen in a vacuum.
 
 **People will think my post sucks**. Don't aim to make a good post. Aim to make this post better than the last. Every post is practice for the next. Eventually quality will come.
@@ -296,8 +254,6 @@ Arguments and counter-arguments against writing.
 
 [Paul Graham](https://x.com/paulg/status/1618747829975130115?lang=en)Y Combinator co-founder
 
-![Portrait of wizard Gandalf the Gray](https://garden.bradwoods.io/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fgandalf.e1b58ae6.webp&w=3840&q=75)
-
 ## **Treasure**
 
 **Using thoughts.** Have you ever been to a lecture, understood everything, then attempted to solve a problem based on the content and been unable to? This is because thoughts are signals surrounded by noise. Your understanding may feel complete, but it's only when you use your thoughts, like attempting to solve the problem, that the noise is filtered out and the signal exposed. Revealing how strong or weak, how well or little you understand. Exposing knowledge gaps, poor logic and bias. **Using thoughts reduces what you think you know to what you actually know.**
@@ -307,8 +263,6 @@ Arguments and counter-arguments against writing.
 > *“No skill is more valuable or harder to come by than the ability to critically think. Thinking better than others means you'll have more free time and fewer problems. If you can't think well, you'll spend a lot of time fixing avoidable mistakes. If you stop thinking when most people stop thinking, you'll come to the same conclusions most people come to. Thinking is hard, so it's natural that most people stop as soon as possible. We get the gist of something and move on to the next problem.”*
 
 [Shane Parrish](https://fs.blog/how-to-think)New York Times bestselling author
-
-![Portrait of Spock the Vulcan](https://garden.bradwoods.io/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fspock.3971ec86.webp&w=3840&q=75)
 
 **Discovery.** Because writing exposes what you don't know, it provides an opportunity to correct that. It is the process by which we realize we don't understand and the process we come to understand. **It's an act of discovery, not just expression.**
 
