@@ -1,7 +1,7 @@
 # ------------------------------------- #
 # ---- General Settings --------------- #
 # ------------------------------------- #
-baseURL = "https://gentlelucky.com/"
+baseURL = "https://blog.gentlelucky.com/"
 title = "GentleLucky"
 theme = "hugo-theme-den"
 enableRobotsTXT = true                # generate robots.txt
