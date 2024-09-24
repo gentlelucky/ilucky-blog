@@ -155,7 +155,7 @@ authors:
 
 故事是在更深层次上建立联系的另一种方式。[Simon Sinek](https://www.youtube.com/watch?v=I3WUiD8HYn8) 认为**没有人愿意被解释。但人们会倾听并记住故事。**
 
-他们帮助人们理解你想说的话。解释、事实和数据可以在之后出现。**人们对让他们有感觉的事物感兴趣。**一个触发情感的故事会让人们投入情感。使用个性化的故事。这让人们将他们的经历、他们的生活与我所说的联系起来。然后，它就不再是关于我、我的事实和我的观点。它关乎我们自己、我们共同的旅程和我们的集体经历。
+他们帮助人们理解你想说的话。解释、事实和数据可以在之后出现。**人们对让他们有感觉的事物感兴趣。** 一个触发情感的故事会让人们投入情感。使用个性化的故事。这让人们将他们的经历、他们的生活与我所说的联系起来。然后，它就不再是关于我、我的事实和我的观点。它关乎我们自己、我们共同的旅程和我们的集体经历。
 
 #### 风格
 
@@ -177,7 +177,7 @@ authors:
 
 **Peak-end 规则。** 人们在很大程度上根据他们在高峰期（最强烈的时刻）和结束时的感受来评判体验。花两倍的时间来修改这些部分。
 
-**语法和拼写。**忽略直到最终草稿。修改较早的句子是浪费时间，因为句子处于不断变化的状态。缺点是长时间忽略语法和拼写错误，以至于在最终草稿中很难看到它们。克服这个问题的一些方法：
+**语法和拼写。** 忽略直到最终草稿。修改较早的句子是浪费时间，因为句子处于不断变化的状态。缺点是长时间忽略语法和拼写错误，以至于在最终草稿中很难看到它们。克服这个问题的一些方法：
 
 - 大声朗读帖子
 - [Hemingway Editor](https://hemingwayapp.com/)
@@ -227,7 +227,7 @@ authors:
 
 **专注思考。** 当我散步时，我的思绪飘向随机的想法。但是当我写作时，我的思考变得深思熟虑，专注于特定的事情。我选择的东西是因为它让我更接近我的目标。专注思考是强大的，因为正如厄尔·南丁格尔所说，***“我们成为我们所思考的样子。***  他让我们想象一个拥有一块肥沃土地的农民。土地为农民提供了一个选择：种什么东西，它就会长大。土地不在乎种了什么，由农民决定。现在，将这片土地与人类的思想进行比较。就像这片土地一样，头脑不在乎你在其中种下什么;它只会返回您输入的内容。假设农民手里拿着两颗种子：一颗是玉米，一颗是龙葵，这是一种致命的毒药。他两者都种下，平等地照顾它们，然后会发生什么？这片土地既生产玉米，又生产毒药。头脑也是这样运作的。无论你种下成功还是失败，清晰还是困惑，头脑都会回报你播种的。博客反映了作者的思想。这是农田，柱子是种子。
 
-**公共。 **博客公开意味着其他人可以看到您在农场种植的东西。*“写作是你部落的蝙蝠信号”*——[朱利安·夏皮罗](https://www.julian.com/guide/write/intro)。它可以开辟机会，让您更接近实现目标。
+**公共。** 博客公开意味着其他人可以看到您在农场种植的东西。*“写作是你部落的蝙蝠信号”*——[朱利安·夏皮罗](https://www.julian.com/guide/write/intro)。它可以开辟机会，让您更接近实现目标。
 
 ![Collaboration offer from Shopify](https://garden.bradwoods.io/images/shopifyEmail.svg)
 
@@ -286,7 +286,7 @@ authors:
     为什么工程师需要写作](https://www.developing.dev/p/why-engineers-need-to-write)
   - [WHY I BLOG 为什么我写博客](https://www.dannyguo.com/blog/why-i-blog)
   - [WHY WRITE? 为什么要写作？](https://bastian.rieck.me/blog/2023/writing_why/)
-  - [WHY YOU SHOULD CREATE CONTENT IN 2024 [NAVAL RAVIKANT, CHAMATH PALIHAPITIYA, MRBEAST\]
+  - [WHY YOU SHOULD CREATE CONTENT IN 2024 [NAVAL RAVIKANT, CHAMATH PALIHAPITIYA, MRBEAST]
     为什么你应该在 2024 年创建内容 [NAVAL RAVIKANT、CHAMATH PALIHAPITIYA、MRBEAST]](https://www.youtube.com/watch?v=cQAsaWWnlnI)
   - [WHY YOU SHOULD START A BLOG RIGHT NOW
     为什么你应该现在开始写博客](https://guzey.com/personal/why-have-a-blog)
