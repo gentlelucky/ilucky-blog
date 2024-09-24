@@ -13,303 +13,291 @@ authors:
 
 > Brad Woods. (2024, Sep). [How to write](https://garden.bradwoods.io/notes/communication/how-to-write). bradwoods.io. https://garden.bradwoods.io/notes/communication/how-to-write
 
-## **Purpose of writing**
+## 写作目的
 
-**The purpose of writing is to change how the writer and reader think.** For now, I'll focus on the reader. For writing to achieve this purpose, someone has to read it. Which begs the question, *why would someone read something I wrote?* The answer, because they think it's valuable. So what makes a piece of writing valuable? That is a poor question. A better one is, *what makes a piece of writing valuable to someone?* The value is not what's in the author's head or the words on the page. It's what those words do inside the reader's head. This means the value of a piece of writing is subjective. What I write is only valuable to a specific group of people. So who are those people?
+**写作的目的是改变作者和读者的思维方式。**现在，我将专注于读者。为了达到这个目的，必须有人阅读它。这就引出了一个问题，*为什么有人会阅读我写的东西？*答案是因为他们认为这很有价值。那么，是什么让一篇文章有价值呢？这是一个糟糕的问题。更好的问题是，*是什么让一篇文章对某人有价值？*价值不是作者脑海中的内容或页面上的文字。这就是这些词在读者脑海中的作用。这意味着一篇文章的价值是主观的。我写的东西只对特定的人群有价值。那么这些人是谁呢？
 
-My target audience. And, as the saying goes, *know your audience.* A group of strangers whom I know what they like. What they dislike. What they want. What they need. How they think. How to reach them. The more I think about this, the more impossible it sounds. There is only one person I truley know that intimately. Me. **I am my target audience.** I write about what interests me in a way I find interesting. More of a diary than a broadcast to strangers. This is authentic writing.
+我的目标受众。而且，俗话说，*了解你的听众。*一群我知道他们喜欢什么的陌生人。他们不喜欢什么。他们想要什么。他们需要什么。他们是怎么想的。如何联系他们。我越想越觉得不可能。我真正了解的人只有一个人。我。**我是我的目标受众。**我以我觉得有趣的方式写下我感兴趣的东西。与其说是向陌生人广播，不如说是一本日记。这是真实的写作。
 
-> *“What the world craves is Authenticity”*
+> *“世界渴望的是真实性”*
 
-[Naval Ravikant](https://x.com/naval/status/1189712122286002177)Co-founder of AngelList
+随着时间的推移，像我这样的人会成为我的观众。因为他们喜欢我喜欢的东西。我不会浪费时间猜测他们可能对什么内容感兴趣。或者失去写我不关心的事情的动力，因为它可能会取悦别人。我了解我的观众，因为他们和我一样。
 
-Over time, people like me will become my audience. Because they like what I like. I won't waste time guessing what content they might be interested in. Or lose motivation writing about things I don't care about because it might please others. I know my audience because they are like me.
+> *“人们不时问我，你拍电影时有没有考虑到观众？我的回答是，是的，我愿意。但我心目中的观众并不是我试图猜测的那些不露面的斑点，对吧？是我。我是观众。我打赌还有其他像我一样的人。”*
 
-> *“People ask me from time to time, do you make a movie with an audience in mind? And my answer is, yes, I do. But the audience I have in mind isn't some faceless blobs that I'm trying to second guess, right? It's me. I'm the audience. I was betting that there are other people like me out there.”*
+> *“我只是写我想写的东西。我写让我开心的东西。这完全是为了我自己。我做梦都没想到会这么受欢迎。”*
 
-[Quentin Tarantino](https://youtu.be/dujnjw_s8bY?si=imUCxGyn_O-R6wdd&t=1010)Filmmaker
+## 信号与噪声
 
-> *“I just write what I want. I write what amuses me. It's totally for myself. I never in my wildest dreams expected this popularity.”*
+**每一次通信都是信号和噪音的混合体。**Signal 是作者打算传达的信息。噪音就是其他一切。预期信息与查看器的联系越多，信号就越强。不必要的细节或难以理解的单词选择越多，噪音就越大。出色的写作具有强大的信号和最小的噪音。
 
-[J.K. Rowling](https://www.goodreads.com/quotes/435887-i-just-write-what-i-wanted-to-write-i-write)Author of Harry Potter
+## 该说什么
 
-## **Signal vs. noise**
+### 新想法或现有想法
 
-**Every piece of communication is a mix of signal and noise.** Signal is the information the author intends to communicate. Noise is everything else. The more the intended information connects with the viewer, the stronger the signal. The more needless details or hard to understand word choices, the more noise. Great writing has a strong signal and minimal noise.
+帖子可以传达新想法，也可以以新的方式传达现有想法。令人惊讶的是，**对现有想法的新看法与新想法一样有价值。**
 
-noise
+> *“Ken Burns，有史以来最著名的纪录片制作人之一。他的纪录片中的大部分内容都是人们已经知道的信息。你没有学到新东西。但他取得了巨大的成功。广受欢迎，因为他可能是我们这个时代最伟大的讲故事的人。因此，即使你获取的信息是他们已经知道的，如果你能编造一个关于它的好故事，你就会让人们排队，他们会敲你的门来听你说话。”*
 
-## **What to say**
+> *“在创作艺术、书籍、故事——任何事情时——都不要让对原创性的追求冻结你。无论如何，有比原创性重要得多的东西：共鸣。共振是你可以反复完成的事情。共鸣是利用当今的情感如此真实地表达一个想法，以至于你让人们专注于它并使其感觉值得记住。共鸣是相关的故事讲述，它揭示了关于生活的不加修饰的真相，并在短暂的一瞬间占据了读者的思想。用更多的真实和更好的叙述来重述一个古老的故事比原创性更有力量：毕竟，你很少会通过告诉某人一些新的东西来改变他们的生活，但你可以通过说得好一些东西来可靠地影响他们，迫使他们靠拢。想想像《角斗士》和《肖申克的救赎》这样的电影是如何讲述与时间一样古老的陈词滥调的故事的。但几十年来，它们一直比大多数其他电影引起共鸣。为什么？出色的故事讲述优先于原创性。”*
 
-### **New or existing idea**
+人们更喜欢使用通过某人的声音过滤的信息。[Scott Galaway](https://www.youtube.com/watch?v=VgGWaESP06g) 强调，大多数新闻提供商都从相同的地方获取他们的内容。他们都在说同样的事情。人们选择一家供应商而不是另一家供应商的原因归结为该信息的传达方式。他们的观点。他们的声音。
 
-A post can communicate a new idea, or an existing idea in a new way. Surprisingly, **a fresh take on an existing idea can be just as valuable as a new one.**
+### 原料
 
-> *“Ken Burns, one of the most famous documentary film makers of all time. Most of what is in his documentaries is information people already know. You not learning something new. But he is massively successful. Massively popular because he is probably the greatest story teller of our time. So even when you're taking information that they already know, if you could spin a good story about it, you get people lining up and they will knock your door down to listen to you.”*
+在我知道自己在写什么之前，写作就开始了。互联网是信息的海洋，我通过追随我的好奇心来探索它。搜索 [Hacker News](https://news.ycombinator.com/news) 等新闻网站，掉进 YouTube 的兔子洞，大胆地超越 Google 搜索结果的第一页。深入到足够深的地方，你会发现像 [The Bizarre World of Fake Video Games](https://www.youtube.com/watch?v=Q8GnM5xD1k4) 这样的宝藏。我收集片段、视频、图像、报价、统计数据、想法......每个都标记并添加到我的[库中](https://en.eagle.cool/)。对话也是很好的来源。将想法从人们身边传递出来会提供不同的观点，并且可以进行有趣的对话。随着时间的推移，我积累了大量关于我感兴趣的主题的信息。准备制作信号的原材料。
 
-[Morgan Housel](https://youtu.be/vOvLFT4v4LQ?si=ulc7v03TCn4PBgVN&t=6125)New York Times bestselling author
+花在探索上的时间越多越好。如果你不从所有成分开始，就很难做出一些东西。**一些作者将 80% 的时间花在收集和思考上，而剩下的 20% 是实际写作。**
 
-> *“When creating art, books, stories—anything—don't let the pursuit of originality freeze you. There's something much more important than originality anyway: resonance. And resonance is something you can repeatedly accomplish. Resonance is expressing an idea so truthfully using today's sensibilities that you fixate people on it and make it feel worth remembering. Resonance is relatable storytelling that reveals an uncolored truth about life, and for a brief moment it takes over the reader's mind. Retelling an age-old story with more truth and better narrative is more powerful than originality: after all, you'll rarely change someone's life by telling them something new, but you can reliably affect them by saying something so well that it compels them to lean in. Consider how films like Gladiator and The Shawshank Redemption tell clichéd stories as old as time. But they've resonated above most other films for decades. Why? Great storytelling takes precedence over originality.”*
+> *“如果我有一个小时来解决一个问题，我会花 55 分钟思考问题，然后花 5 分钟思考解决方案。”*
 
-Julian ShapiroWriter
+我不仅收集关于该说什么的材料，还收集关于如何说的材料。如果我遇到一篇具有有效写作技巧的帖子，我会收集它以用作将来的参考。如果整篇文章都是有效的，我会对其进行逆向工程以找出原因。
 
-People prefer to consume information filtered through someone's voice. [Scott Galaway](https://www.youtube.com/watch?v=VgGWaESP06g) highlights that most news providers source their content from the same places. They're all saying the same thing. The reason someone chooses one provider over another comes down to how that information is communicated. Their perspective. Their voice.
+> *“好的艺术家复制，伟大的艺术家偷窃。”*
 
-### **Raw material**
+### 创意水龙头
 
-Writing begins before I know what I'm writing about. The internet is an ocean of information and I explore it by following my curiosity. Trawling news websites like [Hacker News](https://news.ycombinator.com/news), falling down YouTube rabbit holes and boldly going beyond the first page of Google search results. Go deep enough and you find treasure like [The Bizarre World of Fake Video Games](https://www.youtube.com/watch?v=Q8GnM5xD1k4). I collect snippets, videos, images, quotes, statistics, thoughts, … Each tagged and added to my [library](https://en.eagle.cool/). Conversations are also good source. Running ideas past people offers different perspectives and can make for interesting conversation. Over time, I build a wealth of information on topics I'm interested in. Raw material ready to be crafted into a signal.
+在决定写某件事之前，我会通过*[创意水龙头](https://www.julian.com/blog/creativity-faucet)*运行我的想法。就像打开肮脏的水龙头一样，第一流水是浑浊的。但是，如果你让它运行足够长的时间，水就会清澈并流干净。心就像水龙头。**当您第一次开始思考想法时，最初的想法可能很糟糕。但如果你坚持下去，最终，好主意会到来。**
 
-The more time spent exploring, the better. It's hard to make something if you don't start with all the ingredients. **Some authors spend 80% of the time gathering and thinking while the remaining 20% is actual writing.**
+### 谁在说
 
-> *“If I had an hour to solve a problem I'd spend 55 minutes thinking about the problem and five minutes thinking about solutions.”*
+与所说的内容同样重要的是谁在说。您更有可能相信医生的医疗建议，而不是会计师的医疗建议，因为医生是公认的该领域的专家。同样，当帖子由在该领域具有权威的人撰写时，被认为更有价值。
 
-[Albert Einstein](https://www.forbes.com/sites/nelldebevoise/2021/01/26/the-third-critical-step-in-problem-solving-that-einstein-missed)Theoretical physicist
+要被视为权威，您需要始终如一地在该领域创建内容。但是你选择哪个区域呢？允许追随真正的兴趣，而不是现在最*热门*的东西。随着时间的推移，一种模式会出现。仅仅因为事物是趋势而写，而对这个主题没有热情，就会在写作中表现出来。
 
-I don't just collect material on what to say, but also on how to say it. If I come across a post that has an effective writing technique, I'll collect it to use as future reference. If a whole post is effective, I'll reverse-engineer it to figure out why.
+> *“找到一个你关心的话题，你心里觉得别人应该关心的话题。正是这种真诚的关怀，而不是你的语言游戏，这将是你风格中最引人注目和最诱人的元素。”*
 
-> *“Good artists copy, great artists steal.”*
+### 大纲
 
-[Pablo Picasso](https://quoteinvestigator.com/2013/03/06/artists-steal/)Painter, sculptor, printmaker, ceramicist, theatre designer
-
-### **Creativity faucet**
-
-Before committing to writing about something, I run my ideas through a *[creativity faucet](https://www.julian.com/blog/creativity-faucet)*. Just like turning on a dirty tap, the first flow of water is murky. But if you let it run long enough, the water clears and flows clean. The mind is like the tap. **When you first start thinking about ideas, the initial ones may be bad. But if you keep going, eventually, the good ideas come.**
-
-### **Who is saying it**
-
-Just as important as what is being said is who is saying it. You're more likely to trust medical advice from a doctor than from an accountant because the doctor is recognized as an expert in the subject. Similarly, a post is considered more valuable when written by someone who has authority in that area.
-
-To be seen as an authority, you need to consistently create content on that area. But which area do you pick? Allows follow genuine interest instead of what's *hot* right now. Over time a pattern will emerge. Writing about things just because it's trending, without passion for the subject, will show in the writing.
-
-> *“Find a subject you care about and which you in your heart feel others should care about. It is this genuine caring, and not your games with language, which will be the most compelling and seductive element in your style.”*
-
-[Kurt Vonnegut](https://kmh-lanl.hansonhub.com/pc-24-66-vonnegut.pdf)Author
-
-### **Outline**
-
-When I have enough raw material and a vague idea of what I want to write about, I create an outline—**a blueprint of the post.**. I start by grouping the raw material based on the ideas they support. The post will revolve around one big idea, broken down into sub-ideas, and sometimes sub-sub-ideas. Each group makes a section. Ideas the headings. All organized in a logical sequence.
+当我有足够的原始材料并且对我想写的内容有一个模糊的想法时，我会创建一个大纲——**帖子的蓝图.**.我首先根据它们支持的想法对原材料进行分组。这篇文章将围绕一个大想法展开，分解为子想法，有时是子子想法。每个组组成一个部分。想法标题。所有这些都按逻辑顺序组织。
 
 ![Blueprint diagram. Sections are reactangles with sub-head and raw material inside.](https://garden.bradwoods.io/images/outline.svg)
 
-**For the author**, headings provide direction and guardrails for the paragraphs that follow. Helping to keep the content on-topic. Splitting the writing into sections also makes the writing process less intimidating, allowing you to concentrate on one section at a time. Plus I also don't need to write from top to bottom. I can choose whatever section I'm motivated to write about on any given day.
+**对于作者，**标题为后面的段落提供了方向和护栏。帮助保持内容切题。将写作分成几个部分还可以使写作过程不那么令人生畏，让您一次专注于一个部分。另外，我也不需要从上到下写作。我可以选择在任何一天我有动力写的任何部分。
 
-**For the reader**, sections show structure. Without them, the post would be an overwhelming wall of text. A part of writing is evoking emotions in the reader and starting with dread probably isn't one of them. Structure, on the other hand, gives a sense of calm.
+**对于读者来说**，各部分显示结构。没有他们，帖子将是一堵压倒性的文字墙。写作的一部分是唤起读者的情感，从恐惧开始可能不是其中之一。另一方面，结构给人一种平静的感觉。
 
 ![Two posts showing many paragraphs. One with sub-headings, one without.](https://garden.bradwoods.io/images/wallOfText.svg)
 
-Sections help reduce the amount of context the reader needs to hold in their mind. Each section should be self-contained, making it understandable without relying on what came before or after.
+章节有助于减少读者需要记住的上下文量。每个部分都应该是独立的，使其易于理解，而无需依赖之前或之后的内容。
 
-A section should corner off context. Making it understandable without the need to read the section before or after it. When a reader enters a new section, they can let go of the previous context. The less they need to retain, the less mental energy required to decode the page, the less noise.
+一个部分应该将上下文排除在外。使其易于理解，而无需阅读其之前或之后的部分。当读者进入新部分时，他们可以放弃之前的上下文。他们需要保留的越少，解码页面所需的精神能量就越少，噪音就越小。
 
-Sections improve skim-ability. A post is is only valuable to the target audience. The first thing a reader does is skim the post to see if they are the audience and whether to read or not. Sections, with some other things, make this step fast and easy.
+部分提高了浏览能力。帖子仅对目标受众有价值。读者做的第一件事是浏览帖子，看看他们是否是受众以及是否阅读。部分以及其他一些内容使此步骤变得快速而简单。
 
-- ▪**Title**: tells the reader what they will get from reading this post.
-- ▪**Intended audience**: a broad description of the audience.
-- ▪**Table of contents**: some readers may only be interested in one section of the post. A table of contents allows them to access it ASAP.
-- ▪**The hook**: a brief of what the reader is in store for.
-- ▪**Highlighted key points**: the most valuable pieces of the post. Styled to standout and make easier to see while skimming.
+- **标题**：告诉读者他们将从阅读这篇文章中得到什么。
+- **目标受众**：受众的广泛描述。
+- **目录**：一些读者可能只对文章的一个部分感兴趣。目录允许他们尽快访问它。
+- **钩子**：读者准备什么的简介。
+- **突出的要点**：帖子中最有价值的部分。风格醒目，在浏览时更容易看到。
 
-The easier to skim, the better you manage the reader's expectations. This matters because **people don't get upset by what they receive; they get upset when it doesn't match their expectations.** If I buy a $1 sandwich and it's bad, I won't be upset—I got what I paid for. But, if I buy a $20 sandwich and it's bad, I'll be angry because I expected something better. Good skim-ability means if they choose to read, they know you're taking them where they want to go and will be satisfied at the end.
+越容易浏览，您就越能更好地管理读者的期望。这很重要**，因为人们不会因为他们收到的东西而感到不安;当它不符合他们的期望时，他们会感到不安。**如果我买了一个 1 美元的三明治，但味道很糟糕，我不会难过——我得到了我所付的钱。但是，如果我买了一个 20 美元的三明治，但情况很糟糕，我会生气，因为我期待更好的东西。良好的略读能力意味着如果他们选择阅读，他们知道你正在带他们去他们想去的地方，最后会感到满意。
 
-### **First draft**
+### 初稿
 
-The purpose of a first draft is to create something. Every draft after that refines it. I review the outline to load context into my brain, then start writing. Fast. The first draft is a speedrun. The goal is to move everything from my head to the page. I use the *[creativity faucet](https://www.julian.com/blog/creativity-faucet)* again, writing down every idea I have in order to flush out the bad and get to the good. I don't care about quality. I write long, rambling sentences that barely make sense, filled with spelling and grammar errors, tangents, and repetition. If I can't think of how to end one, I just write *#ADD SOMETHING HERE#* and move on.
+初稿的目的是创造一些东西。之后的每一次草稿都会对其进行改进。我查看大纲以将上下文加载到我的大脑中，然后开始写作。快。初稿是速通。目标是将所有内容从我的头上移动到页面上。我再次使用*[创意水龙头](https://www.julian.com/blog/creativity-faucet)*，写下我的每一个想法，以便消除坏处并获得好处。我不在乎质量。我写长篇大论、杂乱无章的句子，几乎没什么意义，充满了拼写和语法错误、切题和重复。如果我想不出如何结束，我就在这里写 *#ADD SOMETHING #*，然后继续前进。
 
-This is where I generate ideas and why I only need a vague idea of what I'm writing about for the outline. Because writing is thinking. More on this later.
+这是我产生想法的地方，也是为什么我只需要对我所写的大纲有一个模糊的想法。因为写作就是思考。稍后会详细介绍。
 
-I write as if I'm journaling. This helps me write exactly what I think, without altering it to fit the expectations of an imaginary audience of strangers. By the end I have a signal. It may be weak and full of noise, but it's there.
+我写得好像在写日记一样。这有助于我准确地写下我的想法，而不会为了迎合想象中的陌生人观众的期望而对其进行修改。到最后，我得到了一个信号。它可能很弱，充满了噪音，但它就在那里。
 
-## **How to say it**
+## 怎么说
 
-Great writing is understandable and connects with the reader. **There is no \*one-size-fits-all\* for how best to communicate. It depends on what is being said and to who.**
+出色的写作是可以理解的，并与读者建立联系。关于**如何最好地进行沟通，没有\*放之\*四海而皆准的方法。这取决于人们说了什么，对谁说了。**
 
-> *“The human mind and absorb and process an incredible amount of information if it comes in the right format. The right interface.”*
+> *“如果信息格式正确，人类的大脑会吸收和处理大量信息。正确的界面。”*
 
-[Neal Stephenson](https://en.wikipedia.org/wiki/Snow_Crash)Author of Snow Crash
+### **可理解的**
 
-### **Understandable**
-
-**A valuable idea loses its value if it can't be communicated in a way people understand.** Below are two explanations of the same mathematical rule—*how to add fractions with the same denominator*—one before mathematical notation existed and one after:
+**如果一个有价值的想法不能以人们理解的方式进行传达，它就会失去其价值。**以下是对同一数学规则（*如何添加具有相同分母的分数*）的两种解释，一种是在数学符号存在之前，另一种是在数学符号存在之后：
 
 ![The same math rule explained using words and mathematical notation](https://garden.bradwoods.io/images/mathDefinition.svg)
 
-I don't understand the explanation on the left. The idea is valuable but, because it's communicated in a way I don't understand, it becomes worthless. The explanation of the right I understand and therefore the idea retains its value.
+我不明白左边的解释。这个想法很有价值，但是，因为它是以我不理解的方式传达的，所以它变得毫无价值。我理解对权利的解释，因此这个想法保留了它的价值。
 
-#### **Simplify**
+#### 简化
 
-> *“The secret of good writing is to strip every sentence to its cleanest components.”*
+> *“好写作的秘诀是将每个句子都剥离出最干净的部分。”*
 
-[William Zinsser](https://www.goodreads.com/quotes/8729114-but-the-secret-of-good-writing-is-to-strip-every)Author
+简化写作可以消除噪音。它有助于将内容尽可能顺畅地进入读者的脑海中。
 
-Simplifying writing removes noise. It helps gets the content into the reader's head as frictionless as possible.
+**每行一句**话。将每个句子显示在自己的行上可以更轻松地简化。这不是发布时的样子，而是修改时的样子。它：
 
-**One sentence per line**. Displaying each sentence on its own line makes simplifying easier. This is not how it will look when published, only when revising. It:
+- 帮助您单独判断每个句子，而不是隐藏在一个段落中，
+- 可以更轻松地重新排列句子。将第一句话设为打孔，将最后一句话设为 linger 和
+- 使句子长度变得容易。
 
-- ▪helps you judge each sentence on its own, rather than being hidden within a paragraph,
-- ▪makes it easier to rearrange sentences. Make the first sentence punch and the last linger and
-- ▪makes it easy to see sentence length.
+> *“这句话有五个字。这里还有五个词。五个单词的句子就可以了。但有几个放在一起变得单调。听听正在发生的事情。写作越来越无聊了。它的声音嗡嗡作响。这就像一张卡住的唱片。耳朵需要一些变化。现在听着。我改变句子的长度，我创作音乐。音乐。文字在歌唱。它有一种愉快的节奏，一种轻快，一种和声。我使用短句。我使用中等长度的句子。有时，当我确定读者已经休息时，我会用一个相当长的句子来吸引他，这个句子充满活力，并以渐强的所有动力构建，鼓的滚动，钹的撞击声——说听这个，这很重要。因此，请用短句、短句和长句的组合来写作。创造悦耳的声音。不要只写文字。写音乐。”*
 
-> *“This sentence has five words. Here are five more words. Five-word sentences are fine. But several together become monotonous. Listen to what is happening. The writing is getting boring. The sound of it drones. It's like a stuck record. The ear demands some variety. Now listen. I vary the sentence length, and I create music. Music. The writing sings. It has a pleasant rhythm, a lilt, a harmony. I use short sentences. And I use sentences of medium length. And sometimes, when I am certain the reader is rested, I will engage him with a sentence of considerable length, a sentence that burns with energy and builds with all the impetus of a crescendo, the roll of the drums, the crash of the cymbals-sounds that say listen to this, it is important. So write with a combination of short, meium and long sentences. Create a sound that pleases the ear. Don't just write words. Write music.”*
+**目的。**对于每句话，都要问问它对读者的目的和影响是什么。删除与段落目的无关的句子。删除与其部分目的无关的段落。删除与帖子目的无关的部分。
 
-[Gary Provost](https://www.goodreads.com/quotes/373814-this-sentence-has-five-words-here-are-five-more-words)Author
+**简单的语言。**说出你的意思。使用最有效的词语，直截了当。不要狡猾或雄辩。用简单的单词代替复杂的单词，这样即使是 6 岁的孩子也能理解。这促使您找到一种用最简单的术语来解释复杂性的方法。最小化假设知识。减少噪音。即使是语言大师威廉·莎士比亚 （William Shakespeare） 也在他最深刻的句子中使用了简单，只有六个简单的词。*“To be or not to be？”*
 
-**Purpose.** For every statement, question what the purpose and effect it will have on the reader. Remove sentences irrelevant to the paragraph's purpose. Remove paragraphs irrelevant to their section's purpose. Remove sections irrelevant to the post's purpose.
+**减少字数。**您可以在不减弱信号的情况下删除的单词越多越好。力求直接和简洁。通过问自己，为了实现段落的目的，避免不必要的细节，一件事需要详细描述还是只是提及？避免重复。每个句子都应该以一种新的、有用的方式阐明主题。如果没有，则它是噪音，应该被删除。每个单词都需要努力阅读。每个字都是有代价的。
 
-**Simple language.** Say what you mean. Use the most effective words that get straight to the point. Don't be tricky or eloquent. Replace complex words with simple ones so even a six-year-old could understand. This prompts you to find a way of explaining complexity in it's simpliest terms. Minimizing assumed knowledge. Reducing noise. Even William Shakespeare, a master of language, used simplicity in his most profound sentence with six simple words. *"To be or not to be?"*
+还要删除防御性词语。在对话中，像 *“我认为 ”*这样的短语可以软化陈述，并欢迎其他不同意的人说出来。例如，*“我认为问题是......”*不要以书面形式执行此操作。你可以争辩说，省略它意味着你声称你写的是事实而不是观点。大多数写作都是意见。最好假设读者理解这一点，而不是增加噪音。
 
-**Reduce word count.** The more words you can remove without weakening the signal, the better. Aim to be direct and concise. Avoid needless detail by asking yourself, to fulfil a paragraph's purpose, does a thing need to be described in detail or just mentioned? Avoid repetition. Each sentence should illuminate the subject in a new and useful way. If it doesn't, it is noise and should be removed. Each word takes effort to read. Each word comes at a cost.
+> *“所有才能中最有价值的是，当一个人能用的时候，永远不要用两个词。”*
 
-Also remove defensive words. In conversation, phrases like *"I think"* can soften a statement and welcome others who disagree to speak up. For example, *"I think the problem is ..."* Don't do this in writing. You could argue omitting it means you're claiming what you write is fact rather than opinion. Most writing is opinion. It's better to assume the reader understands this rather than adding noise.
+**使用其他媒介。**写作的目标是改变读者的思维方式，但这并不一定非得只用文字来完成。一张图片胜过千言万语，有时图像、视频、声音或小部件可以比文本更有效地传达想法。网页具有多媒体功能。使用它们。
 
-> *“The most valuable of all talents is that of never using two words when one will do.”*
+#### 例子
 
-[Thomas Jefferson](https://www.goodreads.com/quotes/14310-the-most-valuable-of-all-talents-is-that-of-never)United States Founding Father
+在解释一个复杂的概念时，请考虑使用示例。它们通过将抽象概念建立在熟悉的上下文中，使抽象概念更具相关性。通过使用真实情况来提高其有效性。提供好的例子和坏的例子有助于读者发现模式，有效地展示而不是讲述，并减少误解的机会。由于几乎可以从任何东西中汲取例子，因此它们也为微妙的幽默提供了机会。
 
-**Use other mediums.** The goal of writing is to change how the reader thinks, but this doesn't have to be done with words alone. A picture is worth a thousand words and sometimes an image, video, sound, or widget can convey an idea more effectively than text. A web page has multimedia capabilities. Use them.
+#### 反驳
 
-#### **Examples**
+一切都有优点和缺点。承认并解决反驳表明您已经做好了功课。它表明您已经考虑了不同的观点和潜在影响，但仍然相信您的想法是最强大的。这增加了您的职位的可信度和分量。
 
-When explaining a complex idea, consider using examples. They make abstract concepts more relatable by grounding them in familiar contexts. Increase their effectiveness by using real-world situations. Providing both good and bad examples helps readers spot patterns, effectively showing rather than telling, and reducing the chance of misinterpretation. Since examples can be drawn from almost anything, they also offer an opportunity for subtle humor.
+### 连接
 
-#### **Counterarguments**
+写作需要易于理解，但仅仅易于理解是不够的——它还必须令人难忘，以改变读者的想法。**唤起情感的写作在更深的层次上与读者建立联系。**考虑*一下《我如何遇见你的母亲*》中的一个场景，以两种方式呈现：两种方式相同，但第二个版本包括阴郁的音乐和灰度颜色。这些通过唤起怀旧之情来强化场景的信息，使其更加令人难忘。
 
-Everything has pros and cons. Acknowledging and addressing counterarguments shows you've done your homework. It demonstrates that you've considered different perspectives and potential repercussions, yet still believe your idea is the strongest. This adds credibility and weight to your position.
+故事是在更深层次上建立联系的另一种方式。[Simon Sinek](https://www.youtube.com/watch?v=I3WUiD8HYn8) 认为**没有人愿意被解释。但人们会倾听并记住故事。**
 
-**UNDER CONSTRUCTION:** This section is a work in progress.
-Add: analogy, metaphor, quote.
+他们帮助人们理解你想说的话。解释、事实和数据可以在之后出现。**人们对让他们有感觉的事物感兴趣。**一个触发情感的故事会让人们投入情感。使用个性化的故事。这让人们将他们的经历、他们的生活与我所说的联系起来。然后，它就不再是关于我、我的事实和我的观点。它关乎我们自己、我们共同的旅程和我们的集体经历。
 
-### **Connect**
+#### 风格
 
-Writing needs to be understandable, but being understandable alone isn't enough—it must also be memorable to change the reader's thinking. **Writing that evokes emotions connects with the reader on a deeper level.** Consider a scene from *How I Met Your Mother* presented in two ways: both identical, but the second version includes somber music and grayscale colors. These reinforce the scene's message by evoking nostalgia, making it more memorable.
+**米开朗基罗并没有试图像米开朗基罗那样画画——他只是想画得好。他的风格自然而然地从这个目标中显现出来。**不要追求特定的写作风格。遵循你认为好的东西，随着时间的推移，你的真实风格就会显现出来。它是你说话的方式——你的语气、幽默、怪癖和观点。你的写作越接近你自然的说话方式，它就会变得越真实和亲切。
 
-Story is another way to connect at a deeper level. [Simon Sinek](https://www.youtube.com/watch?v=I3WUiD8HYn8) believes **nobody wants to be explained to. But people will listen and remember stories.**
+你的风格越丰富，你的声音就越独特，你就越能逃脱竞争。您的个人声音没有竞争。如果乔·罗根的播客明天消失了，没有人可以取代他，因为只有乔·罗根有乔·罗根的声音。
 
-They help people understand what you're trying to say. The explanation, facts and figures can come afterwards. **People are interested in things that make them feel something.** A story that triggers an emotion gets people emotionally invested. Use a story that's personal. That lets people relate their experiences, their lives to what I'm saying. Then it's no longer about me, my facts and my point of view. It's about us, our shared journey and our collective experience.
+> *“不要试图原创，只是努力做到好。”*
 
-#### **Style**
+在 Weboage 上，风格超越了内容，延伸到它的呈现方式。让您在互联网上的空间独一无二——反映您的个性。独一无二。工艺通过小细节表现出来，表明时间和关怀已经投入到创造中。这是有价值的东西。
 
-**Michelangelo didn't try to paint like Michelangelo—he simply aimed to paint well. His style emerged naturally from that goal.** Don't chase a specific writing style. Follow what you believe is good and over time, your authentic style will reveal itself. It is how you speak—your tone, humor, quirks, and perspective. The closer your writing aligns with how you naturally talk, the more authentic and relatable it becomes.
+## 修订、修订、修订、...
 
-The more you grow your style, the more unique your voice, the more you escape competition. There is no competition for your personal voice. If Joe Rogan's podcast disappeared tomorrow, no one could replace him because only Joe Rogan has Joe Rogan's voice.
+修改的目的是缩小您的意图与读者脑海中实际发生的事情之间的差距。
 
-> *“Don't try to be original, just try to be good.”*
-
-[Paul Rand](https://www.logodesignlove.com/paul-rand-video)Designer of for IBM, NeXT
-
-On a weboage, style extends beyond the content to how it's presented. Make your space on the internet uniquely yours—a reflection of your personality. One of a kind. Craftsmanship shows through small details, signaling time and care have gone into creatingthis. That this is something of value.
-
-## **Revise, revise, revise, ...**
-
-The purpose of revising is to close the gap between what you intend and what is actually happening in the reader's head.
-
-**Not a straight line**. the process of writing is not a straight line. Revision is continually jumping backwards and forwards. **Like any creative process, you have more understanding of what you are making near the end compared to the beginning.** This removes hesitation to put pen to paper. Nothing is *locked-in*, everything is a draft that can be revised later. **Aim for growth, not perfection. No sentence has to be the best, it just has to be better than before. If the page is blank, anything is better than nothing.**
+**不是一条直线**。写作的过程不是一条直线。修订是不断地来回跳转。**就像任何创作过程一样，与开始时相比，您在接近尾声时对自己正在制作的内容有更多的了解。**这消除了将笔写在纸上的犹豫。没有什么是*锁定的*，一切都是以后可以修改的草稿。**以成长为目标，而不是完美。没有句子必须是最好的，它必须比以前更好。如果页面是空白的，那么有总比没有好。**
 
 ![The design squiggle](https://garden.bradwoods.io/images/designSquiggle.svg)
 
-**Peak-end rule.** People judge an experience largely based on how they felt at its peak (its most intense point) and at the end. Spend twice as much time revising these parts.
+**Peak-end 规则。**人们在很大程度上根据他们在高峰期（最强烈的时刻）和结束时的感受来评判体验。花两倍的时间来修改这些部分。
 
-**Grammar and spelling.** Ignore until the final drafts. Fixing an earlier is be a waste of time because sentences are in a constant state of change. A downside is ignore grammar and spelling mistakes for so long that it's hard to see them by the final drafts. Some ways to overcome this:
+**语法和拼写。**忽略直到最终草稿。修改较早的句子是浪费时间，因为句子处于不断变化的状态。缺点是长时间忽略语法和拼写错误，以至于在最终草稿中很难看到它们。克服这个问题的一些方法：
 
-- ▪read the post out loud
-- ▪[Hemingway Editor](https://hemingwayapp.com/)
-- ▪[Grammarly](https://www.grammarly.com/)
+- 大声朗读帖子
+- [Hemingway Editor](https://hemingwayapp.com/)
+- [Grammarly](https://www.grammarly.com/)
 
-**My feedback.** Before getting feedback from others, get it from yourself. Step away from your work to get fresh eyes. [Stephen King](https://www.goodreads.com/quotes/585639-with-six-weeks-worth-of-recuperation-time-you-ll-also-be) leaves his drafts alone for six weeks to defamiliarize himself. You want others' feedback to focus on what you missed, not what you could have caught on your own.
+**我的反馈。**在从他人那里获得反馈之前，先从自己那里获得反馈。远离你的工作，获得新的视角。[斯蒂芬·金 （Stephen King](https://www.goodreads.com/quotes/585639-with-six-weeks-worth-of-recuperation-time-you-ll-also-be)） 将他的草稿独自留下六周，以熟悉自己。您希望其他人的反馈集中在您错过的内容上，而不是您自己可以捕捉到的内容。
 
-**Their feedback.** Once you've addressed your own, it's time to ask others for feedback. It's best to ask people similiar to you, because they represent the target audience. Instead of asking questions with non-actionable answers, like *is it good?*, ask:
+**他们的反馈。**解决自己的问题后，就该向其他人寻求反馈了。最好询问与您相似的人，因为他们代表了目标受众。与其问没有可操作答案的问题，比如 *is it good？*，不如问：
 
-- ▪what did you take away from this?
-- ▪what would your add, remove or modify and why?
-- ▪is there a part you want to know more about?
+- 你从中学到了什么？
+- 您将添加、删除或修改哪些内容，为什么？
+- 您有没有想了解更多的部分？
 
-> *“If you aren't trying to get real feedback from people who know you, you're cooking without tasting. This is, like, the lowest hanging fruit for self-improvement.”*
+> *“如果你不想从认识你的人那里获得真正的反馈，那你就是在没有品尝的情况下烹饪。这就像是自我提升的最低垂得的果实。”*
 
-[Cate Hall](https://usefulfictions.substack.com/p/how-to-be-more-agentic)Blogger
+作为有意义的感谢，请在帖子中感谢他们。
 
-As a meaningful thanks, acknowledge them in the post.
+**何时停止修改。**一些作者很快就推出了内容，而另一些作者，比如 Paul Graham，花了两周时间写一篇文章，[重写了 50 次草稿](https://paulgraham.com/words.html?viewfullsite=1)。您应该以数量还是质量为目标？数量允许更快的输出、更多的实验和更快的反馈。与几个月相比，如果上一个帖子只需要几天，您将更有动力开始一篇新帖子。然而，匆忙可能会产生半生不熟的工作，几乎没有价值。**我们污染了互联网上发布的内容，背后几乎没有思考。**与放慢脚步并真正将时间投入到你正在做的事情相比，你不会学到那么多。詹姆斯·乔伊斯 （Jame Joyce） 是 20世纪最伟大的小说《尤利西斯》的作者，他以每天 100 字的速度写作了七年。T. S. 艾略特 （T. S. Eliot） 平均每月半页，持续 25 年。
 
-**When to stop revising.** Some author's push out content quickly, while others, like Paul graham, spend two weeks on an essay and [re-write drafts 50 times](https://paulgraham.com/words.html?viewfullsite=1). Should you aim for quantity or quality? Quantity allows for faster output, more experimentation, and quicker feedback. You will be more motivated to start a new post if the previous took only a couple of days compared to months. However, rushing risks producing half-baked work, offering little value. **We pollute the internet posting content with little thought behind it.** You won't learn as much compared to slowing down and really putting the time into what you're doing. Jame Joyce, author of Ulysses, the greatest novel of the 20th century, wrote at a rate of 100 words a day for seven years. T. S. Eliot averaged half a page a month for 25 years.
+> *“不是我有多聪明，只是我在问题上待的时间更长。”*
 
-> *“It's not that I'm so smart, it's just that I stay with problems longer.”*
+## 危险
 
-[Albert Einstein](https://www.goodreads.com/quotes/8690969-it-s-not-that-i-m-so-smart-it-s-just-that-i)Theoretical physicist
+反对写作的论点和反驳。
 
-## **Danger**
+**写作很难**。期待那个。为此做好准备。不要把它当作你不应该写的标志。把它看作是一个需要解决的难题。文字是你放置以捕捉意义的棋子。
 
-Arguments and counter-arguments against writing.
+> *“很少有句子第一次出现，甚至第三次都说对。在绝望的时刻记住这一点。如果你发现写作很难，那是因为它很难。”*
 
-**Writing is hard**. Expect that. Prepare for that. Don't take it as a sign you shouldn't write. See it as a puzzle to solve. Words are chess pieces you position to capture meaning.
+**我写的任何东西都只是重复别人说过的话**。也许这个想法并不新鲜，但你的看法是新的。理查德·费曼 （Richard Feynman） 是一位出色的物理老师。他不是因为新思想而受到钦佩，而是因为他如何传达知名思想。赢得[比尔·盖茨](https://www.gatesnotes.com/The-Best-Teacher-I-Never-Had)的赞扬。如果你想要原创性，你就需要思考。写作是更好地思考的工具。写下现有的想法可以产生新的想法。创造力不是在真空中发生的。
 
-> *“Very few sentences come out right the first time, or even the third time. Remember this in moments of despair. If you find that writing is hard, it's because it is hard.”*
+**人们会觉得我的帖子很糟糕**。不要以发布好帖子为目标。旨在使这篇文章比上一篇文章更好。每个帖子都是为下一个帖子练习。最终，质量会到来。
 
-[William Zinsser](https://www.goodreads.com/author/quotes/7881675.William_Zinsser)Author
+**当 AI 可以为您生成帖子时，为什么要写帖子呢？**写作的价值不仅在于最终产品，还在于过程。更多内容见下文。
 
-**Anything I write will just be repeating what others have said**. Maybe the idea isn't new, but your take on it is. Richard Feynman was an exceptional physics teacher. He gained admiration not for new ideas, but for how he communicated well-known ones. Earning praise from [Bill Gates](https://www.gatesnotes.com/The-Best-Teacher-I-Never-Had). If you want originality, you need to think. Writing is a tool for better thinking. Writing about existing ideas can generate new ones. Creativity doesn't happen in a vacuum.
+> *“在写作之前，阅读不会过时，在思考之前，写作不会过时。”*
 
-**People will think my post sucks**. Don't aim to make a good post. Aim to make this post better than the last. Every post is practice for the next. Eventually quality will come.
+## 珍惜
 
-**Why write a post when AI can generate one for you?** The value of writing isn't just about the end product, but in the process. More on this below.
+**使用思想。**你有没有听过讲座，什么都明白了，然后试图根据内容解决问题，但无法解决？这是因为思想是被噪音包围的信号。你的理解可能感觉完整，但只有当你用你的思想，比如试图解决问题时，噪音才会被过滤掉，信号才会暴露出来。揭示你理解的强弱、理解的好坏。暴露知识差距、糟糕的逻辑和偏见。**使用思想将你认为你知道的减少到你实际知道的。**
 
-> *“Reading won't be obsolete till writing is, and writing won't be obsolete till thinking is.”*
+**技能。**我曾经认为写作只是将我的想法复制到纸上。事实并非如此。这是另一种使用思想的方式。这也是将时间用于有意识思考的一种方式。思考，作为一种技能，只会随着你使用它的次数而变得更好
 
-[Paul Graham](https://x.com/paulg/status/1618747829975130115?lang=en)Y Combinator co-founder
+> *“没有比批判性思考能力更有价值或更难获得的技能了。比别人思考得更好意味着你会有更多的空闲时间和更少的问题。如果你不能很好地思考，你会花很多时间去纠正本可以避免的错误。如果你在大多数人停止思考时停止思考，你会得出与大多数人相同的结论。思考是困难的，所以大多数人尽快停止是很自然的。我们了解了某件事的要点，然后继续解决下一个问题。”*
 
-## **Treasure**
+**发现。**因为写作暴露了你不知道的东西，它提供了一个纠正它的机会。这是我们意识到自己不理解的过程，也是我们开始理解的过程。**这是一种发现的行为，而不仅仅是表达。**
 
-**Using thoughts.** Have you ever been to a lecture, understood everything, then attempted to solve a problem based on the content and been unable to? This is because thoughts are signals surrounded by noise. Your understanding may feel complete, but it's only when you use your thoughts, like attempting to solve the problem, that the noise is filtered out and the signal exposed. Revealing how strong or weak, how well or little you understand. Exposing knowledge gaps, poor logic and bias. **Using thoughts reduces what you think you know to what you actually know.**
+**专注思考。**当我散步时，我的思绪飘向随机的想法。但是当我写作时，我的思考变得深思熟虑，专注于特定的事情。我选择的东西是因为它让我更接近我的目标。专注思考是强大的，因为正如厄尔·南丁格尔所说，***“我们成为我们所思考的样子。*** 他让我们想象一个拥有一块肥沃土地的农民。土地为农民提供了一个选择：种什么东西，它就会长大。土地不在乎种了什么，由农民决定。现在，将这片土地与人类的思想进行比较。就像这片土地一样，头脑不在乎你在其中种下什么;它只会返回您输入的内容。假设农民手里拿着两颗种子：一颗是玉米，一颗是龙葵，这是一种致命的毒药。他两者都种下，平等地照顾它们，然后会发生什么？这片土地既生产玉米，又生产毒药。头脑也是这样运作的。无论你种下成功还是失败，清晰还是困惑，头脑都会回报你播种的。博客反映了作者的思想。这是农田，柱子是种子。
 
-**Skill.** I used to think writing was simply copying my thoughts onto paper. It's not. It's another way to use thoughts. It's also a way to dedicate time to intentional thinking. Thinking, being a skill, only gets better the more you use it.
-
-> *“No skill is more valuable or harder to come by than the ability to critically think. Thinking better than others means you'll have more free time and fewer problems. If you can't think well, you'll spend a lot of time fixing avoidable mistakes. If you stop thinking when most people stop thinking, you'll come to the same conclusions most people come to. Thinking is hard, so it's natural that most people stop as soon as possible. We get the gist of something and move on to the next problem.”*
-
-[Shane Parrish](https://fs.blog/how-to-think)New York Times bestselling author
-
-**Discovery.** Because writing exposes what you don't know, it provides an opportunity to correct that. It is the process by which we realize we don't understand and the process we come to understand. **It's an act of discovery, not just expression.**
-
-**Focused thinking.** When I take a walk, my mind drifts to random thoughts. But when I write, my thinking becomes deliberate, focused on something specific. Something I chose because it moves me closer to my goals. Focus thinking is powerful because, as Earl Nightingale said, ***"we become what we think about."** - [Earl Nightingale](https://www.youtube.com/watch?v=-zcqN76r2S0)*. He asks us to imagine a farmer with a plot of fertile land. The land offers the farmer a choice: plant anything, and it will grow. The land doesn't care what's planted, it's up to the farmer to decide. Now, compare this land to the human mind. Like the land, the mind doesn't care what you plant in it; it will simply return what you put in. Suppose the farmer holds two seeds in his hand: one for corn and one for nightshade, a deadly poison. He plants both, cares for them equally, and what happens? The land produces both—corn and poison. The mind works the same way. Whether you plant success or failure, clarity or confusion, the mind will return exactly what you sow. A blog mirrors the author's mind. It is farm land and posts are seeds.
-
-**Public.** A blog being public means others can see what you are growing on your farm. *"Writing is a bat signal for your tribe"* - [Julian Shapiro](https://www.julian.com/guide/write/intro). It can open up opportunities that bring you closer to achieving your goals.
+**公共。**博客公开意味着其他人可以看到您在农场种植的东西。*“写作是你部落的蝙蝠信号”*——[朱利安·夏皮罗](https://www.julian.com/guide/write/intro)。它可以开辟机会，让您更接近实现目标。
 
 ![Collaboration offer from Shopify](https://garden.bradwoods.io/images/shopifyEmail.svg)
 
-## **References**
-
-- [35 Lessons from 35 Years of Newsletter Publishing](https://www.cjchilvers.com/blog/35-lessons-from-35-years-of-newsletter-publishing/)
-- [7 Writing Lessons I Learned the Hard Way](https://www.worldbuilders.ai/p/7-writing-lessons-learned-hard-way)
-- [Ask HN: How to get better at writing?](https://news.ycombinator.com/item?id=34127742)
-- [Dan Harmon](https://en.wikipedia.org/wiki/Dan_Harmon)
-- [Don't think to write, write to think](https://herbertlui.net/dont-think-to-write-write-to-think/)
-- [Finding Fulfillment](https://longform.asmartbear.com/fulfillment/)
-- [George Orwell's Six Rules for Writing](https://infusion.media/blog/george-orwells-six-rules-for-writing/)
-- [Harvard expert shares the No. 1 lesson to learn from Warren Buffett's career: "You can't be really successful" without it](https://www.cnbc.com/2024/05/14/harvard-expert-bill-george-heres-the-key-to-warren-buffetts-success.html)
-- [How I learned to stop worrying and structure all writing as a list](https://dynomight.net/lists/)
-- [How To Edit Your Own Lousy Writing](https://stingingfly.org/2017/10/24/edit-lousy-writing/)
-- [How to be a tech influencer.](https://lethain.com/tech-influencer/)
-- [How to write with style](https://www.bu.edu/clarion/guides/vonnegut-1980.pdf)
-- [NONFICTION WRITING ADVICE](https://slatestarcodex.com/2016/02/20/writing-advice/)
-- [Nobody cares about your blog.](https://www.alexmolas.com/2023/07/15/nobody-cares-about-your-blog.html)
-- [Putting Ideas into Words](https://www.paulgraham.com/words.html)
-- [Speed matters: Why working quickly is more important than it seems](https://jsomers.net/blog/speed-matters)
-- [Story structure - the hidden framework that hangs your story together](https://www.presentation-guru.com/on-structure-the-hidden-framework-that-hangs-your-story-together/)
-- [The Need to Read](https://paulgraham.com/read.html)
-- [The Savings Expert: “Do Not Buy A House!” Do THIS Instead! - Morgan Housel](https://www.youtube.com/watch?v=vOvLFT4v4LQ)
-- [The Skill You've Never Been Taught: How to Think Better](https://fs.blog/how-to-think/)
-- [The Surprising Reason Writing Remains Essential in an AI-Driven World](https://fs.blog/why-write/)
-- [These clips are two of the best pieces of writing advice you will ever get about writing on the internet.](https://twitter.com/LBacaj/status/1668446029610352641)
-- [Tips for making writing more fun](https://davnicwil.com/tips-for-making-writing-more-fun/)
-- [Video Games and the Future of Education](https://www.youtube.com/watch?v=qWFScmtiC44)
-- [We Become What We Think About](https://www.youtube.com/watch?v=-zcqN76r2S0)
-- [What I Did Not Learn About Writing In School](https://eugeneyan.com/writing/what-i-did-not-learn-about-writing-in-school/)
-- [What to read to become a better writer](https://archive.md/38AGY#selection-765.731-765.841)
-- [Why Engineers Need To Write](https://www.developing.dev/p/why-engineers-need-to-write)
-- [Why I Blog](https://www.dannyguo.com/blog/why-i-blog)
-- [Why Write?](https://bastian.rieck.me/blog/2023/writing_why/)
-- [Why You Should Create Content in 2024 [Naval Ravikant, Chamath Palihapitiya, MrBeast]](https://www.youtube.com/watch?v=cQAsaWWnlnI)
-- [Why You Should Start a Blog Right Now](https://guzey.com/personal/why-have-a-blog)
-- [Why and how to write things on the Internet](https://www.benkuhn.net/writing/)
-- [Write about what you learn. It pushes you to understand topics better.](https://addyosmani.com/blog/write-learn/)
-- [Write like you code](https://www.chrisbehan.ca/posts/write-like-you-code)
-- [Writing Better](https://www.julian.com/guide/write/intro)
-- [Writing one sentence per line](https://sive.rs/1s)
-- [Writing summaries is more important than reading more books](https://www.andreasfragner.com/writing/writing-summaries)
+- **References 引用**
+  - [35 LESSONS FROM 35 YEARS OF NEWSLETTER PUBLISHING
+    35 年时事通讯出版的 35 条经验教训](https://www.cjchilvers.com/blog/35-lessons-from-35-years-of-newsletter-publishing/)
+  - [7 WRITING LESSONS I LEARNED THE HARD WAY
+    我艰难地学到的 7 个写作课](https://www.worldbuilders.ai/p/7-writing-lessons-learned-hard-way)
+  - [ASK HN: HOW TO GET BETTER AT WRITING?
+    问 HN：如何提高写作能力？](https://news.ycombinator.com/item?id=34127742)
+  - [DAN HARMON 丹·哈蒙](https://en.wikipedia.org/wiki/Dan_Harmon)
+  - [DON'T THINK TO WRITE, WRITE TO THINK
+    不要想写，写就是想](https://herbertlui.net/dont-think-to-write-write-to-think/)
+  - [FINDING FULFILLMENT 查找 FULFILLMENT](https://longform.asmartbear.com/fulfillment/)
+  - [GEORGE ORWELL'S SIX RULES FOR WRITING
+    乔治·奥威尔的写作六条规则](https://infusion.media/blog/george-orwells-six-rules-for-writing/)
+  - [HARVARD EXPERT SHARES THE NO. 1 LESSON TO LEARN FROM WARREN BUFFETT'S CAREER: "YOU CAN'T BE REALLY SUCCESSFUL" WITHOUT IT
+    哈佛大学专家分享了从沃伦·巴菲特的职业生涯中吸取的第一教训：“没有它，你就不可能真正成功”](https://www.cnbc.com/2024/05/14/harvard-expert-bill-george-heres-the-key-to-warren-buffetts-success.html)
+  - [HOW I LEARNED TO STOP WORRYING AND STRUCTURE ALL WRITING AS A LIST
+    我是如何学会停止担忧并将所有写作构建成一个列表的](https://dynomight.net/lists/)
+  - [HOW TO EDIT YOUR OWN LOUSY WRITING
+    如何编辑你自己的糟糕作品](https://stingingfly.org/2017/10/24/edit-lousy-writing/)
+  - [HOW TO BE A TECH INFLUENCER.
+    如何成为科技影响者。](https://lethain.com/tech-influencer/)
+  - [HOW TO WRITE WITH STYLE
+    如何有风格地写作](https://www.bu.edu/clarion/guides/vonnegut-1980.pdf)
+  - [NONFICTION WRITING ADVICE
+    非虚构类写作建议](https://slatestarcodex.com/2016/02/20/writing-advice/)
+  - [NOBODY CARES ABOUT YOUR BLOG.
+    没有人关心你的博客。](https://www.alexmolas.com/2023/07/15/nobody-cares-about-your-blog.html)
+  - [PUTTING IDEAS INTO WORDS 将想法转化为文字](https://www.paulgraham.com/words.html)
+  - [SPEED MATTERS: WHY WORKING QUICKLY IS MORE IMPORTANT THAN IT SEEMS
+    速度很重要：为什么快速工作比看起来更重要](https://jsomers.net/blog/speed-matters)
+  - [STORY STRUCTURE - THE HIDDEN FRAMEWORK THAT HANGS YOUR STORY TOGETHER
+    故事结构 - 将您的故事挂在一起的隐藏框架](https://www.presentation-guru.com/on-structure-the-hidden-framework-that-hangs-your-story-together/)
+  - [THE NEED TO READ 阅读的必要性](https://paulgraham.com/read.html)
+  - [THE SAVINGS EXPERT: “DO NOT BUY A HOUSE!” DO THIS INSTEAD! - MORGAN HOUSEL
+    储蓄专家：“不要买房子！请改用 THIS 操作！- 摩根豪塞尔](https://www.youtube.com/watch?v=vOvLFT4v4LQ)
+  - [THE SKILL YOU'VE NEVER BEEN TAUGHT: HOW TO THINK BETTER
+    您从未被传授过的技能：如何更好地思考](https://fs.blog/how-to-think/)
+  - [THE SURPRISING REASON WRITING REMAINS ESSENTIAL IN AN AI-DRIVEN WORLD
+    在 AI 驱动的世界中，写作仍然至关重要的令人惊讶的原因](https://fs.blog/why-write/)
+  - [THESE CLIPS ARE TWO OF THE BEST PIECES OF WRITING ADVICE YOU WILL EVER GET ABOUT WRITING ON THE INTERNET.
+    这些剪辑是您将获得的关于在互联网上写作的最好的两个写作建议。](https://twitter.com/LBacaj/status/1668446029610352641)
+  - [TIPS FOR MAKING WRITING MORE FUN
+    让写作更有趣的小贴士](https://davnicwil.com/tips-for-making-writing-more-fun/)
+  - [VIDEO GAMES AND THE FUTURE OF EDUCATION
+    电子游戏和教育的未来](https://www.youtube.com/watch?v=qWFScmtiC44)
+  - [WE BECOME WHAT WE THINK ABOUT
+    我们成为我们所想的](https://www.youtube.com/watch?v=-zcqN76r2S0)
+  - [WHAT I DID NOT LEARN ABOUT WRITING IN SCHOOL
+    我在学校没有学到的写作](https://eugeneyan.com/writing/what-i-did-not-learn-about-writing-in-school/)
+  - [WHAT TO READ TO BECOME A BETTER WRITER
+    成为更好的作家读什么书](https://archive.md/38AGY#selection-765.731-765.841)
+  - [WHY ENGINEERS NEED TO WRITE
+    为什么工程师需要写作](https://www.developing.dev/p/why-engineers-need-to-write)
+  - [WHY I BLOG 为什么我写博客](https://www.dannyguo.com/blog/why-i-blog)
+  - [WHY WRITE? 为什么要写作？](https://bastian.rieck.me/blog/2023/writing_why/)
+  - [WHY YOU SHOULD CREATE CONTENT IN 2024 [NAVAL RAVIKANT, CHAMATH PALIHAPITIYA, MRBEAST\]
+    为什么你应该在 2024 年创建内容 [NAVAL RAVIKANT、CHAMATH PALIHAPITIYA、MRBEAST]](https://www.youtube.com/watch?v=cQAsaWWnlnI)
+  - [WHY YOU SHOULD START A BLOG RIGHT NOW
+    为什么你应该现在开始写博客](https://guzey.com/personal/why-have-a-blog)
+  - [WHY AND HOW TO WRITE THINGS ON THE INTERNET
+    为什么以及如何在 INTERNET 上编写内容](https://www.benkuhn.net/writing/)
+  - [WRITE ABOUT WHAT YOU LEARN. IT PUSHES YOU TO UNDERSTAND TOPICS BETTER.
+    写下你学到的东西。它促使您更好地理解主题。](https://addyosmani.com/blog/write-learn/)
+  - [WRITE LIKE YOU CODE 像你编码一样编写](https://www.chrisbehan.ca/posts/write-like-you-code)
+  - [WRITING BETTER 更好地写作](https://www.julian.com/guide/write/intro)
+  - [WRITING ONE SENTENCE PER LINE
+    每行写一个句子](https://sive.rs/1s)
+  - [WRITING SUMMARIES IS MORE IMPORTANT THAN READING MORE BOOKS
+    写总结比多读书更重要](https://www.andreasfragner.com/writing/writing-summaries)
 
