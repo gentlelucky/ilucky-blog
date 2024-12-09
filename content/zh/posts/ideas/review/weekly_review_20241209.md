@@ -5,9 +5,10 @@ draft: false
 tags: 
   - "review"
   - "life"
-  - "citywalk"
-  - "tooth"
-  - "design"
+  - "phone"
+  - "think"
+  - "track"
+  - "time"
 categories: 
   - "Ideas"
 authors:
