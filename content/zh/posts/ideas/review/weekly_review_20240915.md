@@ -1,5 +1,5 @@
 ---
-title: "周报 #03 - 使用 Toggl Track 做时间追踪"
+title: "周报 Vol.03 - 使用 Toggl Track 做时间追踪"
 date: 2024-09-15T10:30:00+08:00
 draft: false
 tags: 

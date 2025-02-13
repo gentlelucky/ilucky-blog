@@ -1,5 +1,5 @@
 ---
-title: "周报 #12 - 新徽园"
+title: "周报 Vol.12 - 新徽园"
 date: 2024-12-02T14:45:00+08:00
 draft: false
 tags: 

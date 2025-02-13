@@ -1,5 +1,5 @@
 ---
-title: "周报 #18 - 慢慢远去"
+title: "周报 Vol.18 - 慢慢远去"
 date: 2025-02-05T15:05:00+08:00
 draft: false
 tags: 

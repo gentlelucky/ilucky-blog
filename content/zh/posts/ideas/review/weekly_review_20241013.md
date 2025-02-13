@@ -1,5 +1,5 @@
 ---
-title: "周报 #06 - 爱自己"
+title: "周报 Vol.06 - 爱自己"
 date: 2024-10-14T22:00:00+08:00
 draft: false
 tags: 

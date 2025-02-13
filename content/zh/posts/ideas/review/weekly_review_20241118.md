@@ -1,5 +1,5 @@
 ---
-title: "周报 #10 - 锐锐脱口秀"
+title: "周报 Vol.10 - 锐锐脱口秀"
 date: 2024-11-18T14:30:00+08:00
 draft: false
 tags: 

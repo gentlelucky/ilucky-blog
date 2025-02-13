@@ -1,5 +1,5 @@
 ---
-title: "周报 #04 - 信息输入: Follow 初体验"
+title: "周报 Vol.04 - 信息输入: Follow 初体验"
 date: 2024-09-22T14:45:00+08:00
 draft: false
 tags: 

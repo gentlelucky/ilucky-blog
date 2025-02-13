@@ -1,5 +1,5 @@
 ---
-title: "周报 #07 - 全家福"
+title: "周报 Vol.07 - 全家福"
 date: 2024-10-21T13:21:00+08:00
 draft: false
 tags: 

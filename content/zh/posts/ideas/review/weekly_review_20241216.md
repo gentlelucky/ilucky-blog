@@ -1,5 +1,5 @@
 ---
-title: "周报 #14 - W2X产品构建（一）"
+title: "周报 Vol.14 - W2X产品构建（一）"
 date: 2024-12-16T14:00:00+08:00
 draft: false
 tags: 

@@ -1,5 +1,5 @@
 ---
-title: "周报 #16 - 登黄山"
+title: "周报 Vol.16 - 登黄山"
 date: 2025-01-06T17:30:00+08:00
 draft: false
 tags: 

@@ -1,5 +1,5 @@
 ---
-title: "周报 #05 - 德宝病了"
+title: "周报 Vol.05 - 德宝病了"
 date: 2024-09-30T14:00:00+08:00
 draft: false
 tags: 

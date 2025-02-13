@@ -1,5 +1,5 @@
 ---
-title: "周报 #11 - 《好东西》"
+title: "周报 Vol.11 - 《好东西》"
 date: 2024-11-25T13:30:00+08:00
 draft: false
 tags: 
