@@ -44,7 +44,7 @@ authors:
 
 ### 泰康仙林鼓楼院区
 
-![IMG_8875.HEIC_compressed1](/Users/mac/Downloads/IMG_8875.HEIC_compressed1.jpeg)
+![IMG_8875.HEIC_compressed1](https://image.gentlelucky.com/IMG_8875.HEIC_compressed1.jpeg)
 
 11 月 4 号，从合肥达到泰康仙林鼓楼院区，核查互联互通工作项。
 
